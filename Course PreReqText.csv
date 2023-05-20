@@ -1,0 +1,1488 @@
+SubjectAbbreviation,CourseNumber,PreReqText,CourseLevel
+ACCT,200,MATH 112 or MATH 115 or MATH 121 or MATH 130 or MATH 181,Undergraduate
+ACCT,210, ACCT 200,Undergraduate
+ACCT,220, ACCT 200,Undergraduate
+ACCT,300,ACCT 200,Undergraduate
+ACCT,301, ACCT 300 ,Undergraduate
+ACCT,310,"ACCT 200, ACCT 210",Undergraduate
+ACCT,330," ACCT 200, ACCT 210",Undergraduate
+ACCT,398,Permission of the Chairperson of the department; co-op contract; other prerequisites may also apply.,Undergraduate
+ACCT,400, ACCT 301 ,Undergraduate
+ACCT,410," ACCT 300, ACCT 330 ",Undergraduate
+ACCT,421,ACCT 300,Undergraduate
+AET,262,"AET 160, AET 261, EET 113",Undergraduate
+AET,280,"EET 113, MATH 121",Undergraduate
+AET,334," MATH 121, PHYS 211",Undergraduate
+AET,364,"MATH 121, PHYS 211",Undergraduate
+AET,366,"CHEM 104, MATH 121, PHYS 211",Undergraduate
+AET,387,"ENG 271W, STAT 154",Undergraduate
+AET,398, AET 102. At least 60 credits earned; in good standing; instructor permission; co-op contract; other prerequisites may also apply.,Undergraduate
+AET,435,Permission Required,Undergraduate
+AET,436," AET 366, MATH 122, PHYS 212",Undergraduate
+AET,465,"AET 364, Permission required",Undergraduate
+AET,468,"AET 366, PHYS 211, STAT 154",Undergraduate
+AET,488W,"MET 341, AET 364, AET 387",Undergraduate
+AET,489W,"AET 468, AET 488W, MET 324",Undergraduate
+AET,492,Permission required,Undergraduate
+AET,497,40 earned credits in AET/MET,Undergraduate
+AET,499,Permission required,Undergraduate
+AIS,110, AIS 101,Undergraduate
+AIS,111," AIS 101, AIS 110",Undergraduate
+AIS,398, At least 60 credits earned; in good standing; instructor permission; co-op contract; other prerequisites may also apply.,Undergraduate
+ANTH,280," ANTH 101, ANTH 230, or instructor Permission. ",Undergraduate
+ANTH,290, Consent ,Undergraduate
+ANTH,300, ANTH 101,Undergraduate
+ANTH,323, ANTH 101 or ANTH 220 or consent,Undergraduate
+ANTH,398, At least 60 credits earned; in good standing; instructor permission; co-op contract; other prerequisites may also apply.,Undergraduate
+ANTH,415," ANTH 101, ANTH 210 or consent ",Undergraduate
+ANTH,417,"GEOG 101, ANTH 210; Students are strongly encouraged to take Geog 315 or 4/515 before enrolling. Geol 121 can be substituted for Geog 101 with instructor permission.",Undergraduate
+ANTH,422, ANTH 420 ,Undergraduate
+ANTH,430," ANTH 101, ANTH 230, or consent ",Undergraduate
+ANTH,431," ANTH 101, ANTH 230, or consent; ETHN 100, ETHN 101, or ETHN 150 or consent. ",Undergraduate
+ANTH,433," ANTH 101, ANTH 230, or consent ",Undergraduate
+ANTH,436W," ANTH 101, ANTH 230, or ANTH 220, or consent ",Undergraduate
+ANTH,437," ANTH 101, ANTH 230 or consent ",Undergraduate
+ANTH,439," ANTH 101, ANTH 220 or consent ",Undergraduate
+ANTH,475,ANTH 300,Undergraduate
+ANTH,480," Consent, or one of: ANTH 101, ANTH 102, or ANTH 220 ",Undergraduate
+ANTH,486, Depends on topic and instructor ,Undergraduate
+ANTH,492, Consent ,Undergraduate
+ANTH,493, Consent ,Undergraduate
+ANTH,497, Consent ,Undergraduate
+ANTH,499, Consent ,Undergraduate
+AOS,488, AOS 301,Undergraduate
+ART,210, ART 110 ,Undergraduate
+ART,212, ART 110 ,Undergraduate
+ART,220,ART 202,Undergraduate
+ART,240," ART 100 or ART 101, ART 110 or consent",Undergraduate
+ART,245," ART 100 or ART 101, ART 110 or consent ",Undergraduate
+ART,280, ART 103 or consent ,Undergraduate
+ART,285, ART 103 or consent,Undergraduate
+ART,302," ART 103, ART 202",Undergraduate
+ART,304," ART 103, ART 202",Undergraduate
+ART,310, ART 210,Undergraduate
+ART,320," ART 220, ART 302, ART 304",Undergraduate
+ART,324," ART 220, ART 302, ART 304",Undergraduate
+ART,340, ART 240 or consent ,Undergraduate
+ART,345, ART 245 or consent ,Undergraduate
+ART,350, ART 250 or ART 251 ,Undergraduate
+ART,370, ART 270 or ART 271 ,Undergraduate
+ART,372," ART 202, ART 271",Undergraduate
+ART,375,ART 275,Undergraduate
+ART,377,ART 275,Undergraduate
+ART,380, ART 280 ,Undergraduate
+ART,385, ART 285 or consent,Undergraduate
+ART,400, ART 302 and ART 320,Undergraduate
+ART,402," ART 220, ART 302, ART 304",Undergraduate
+ART,404," ART 220, ART 302, ART 304 ",Undergraduate
+ART,406," ART 220, ART 302, ART 304",Undergraduate
+ART,410, ART 310,Undergraduate
+ART,412, ART 212 or ART 310,Undergraduate
+ART,417, ART 260 or consent,Undergraduate
+ART,419, ART 261 or consent ,Undergraduate
+ART,420,"ART 320, ART 404, ART 406",Undergraduate
+ART,421," ART 100 or ART 101, Jr. status or consent ",Undergraduate
+ART,424, ART 421 ,Undergraduate
+ART,426, ART 421 ,Undergraduate
+ART,428," ART 260, ART 261, ART 421 or consent ",Undergraduate
+ART,436,"ART 320, ART 404, ART 406",Undergraduate
+ART,440, ART 340,Undergraduate
+ART,444,"ART 320, ART 404, ART 406",Undergraduate
+ART,445, ART 345 ,Undergraduate
+ART,450, ART 350 ,Undergraduate
+ART,460, ART 260 or consent ,Undergraduate
+ART,462, ART 261 or consent ,Undergraduate
+ART,463, ART 261 or consent ,Undergraduate
+ART,464," ART 260, ART 261",Undergraduate
+ART,466, ART 261 or consent ,Undergraduate
+ART,469," ART 260, ART 261 or consent ",Undergraduate
+ART,470, ART 370 ,Undergraduate
+ART,480, ART 380 ,Undergraduate
+ART,485, ART 385 or consent,Undergraduate
+ART,492, Consent ,Undergraduate
+ART,495,Consent,Undergraduate
+ART,496, Consent of advisor ,Undergraduate
+ART,497, Jr. standing with consent of advisor and department chair. ,Undergraduate
+ART,499, Consent ,Undergraduate
+AST,125,AST 101,Undergraduate
+AST,215, MATH 121 and PHYS 221 ,Undergraduate
+AST,225," AST 215, MATH 122, PHYS 222 ",Undergraduate
+AST,351," AST 201 and AST 215, Consent ",Undergraduate
+AST,353, AST 215 ,Undergraduate
+AST,354, AST 353 ,Undergraduate
+AST,355, AST 201 and AST 215 ,Undergraduate
+AST,357, AST 225 ,Undergraduate
+AST,493, Consent ,Undergraduate
+AST,495, Consent ,Undergraduate
+AST,499, Consent ,Undergraduate
+AVIA,171,"AVIA 151, or equivalent",Undergraduate
+AVIA,201,"PHYS 101, MATH 112, AVIA 150",Undergraduate
+AVIA,202, AVIA 150,Undergraduate
+AVIA,240," AVIA 150, or equivalent ",Undergraduate
+AVIA,242, AVIA 152,Undergraduate
+AVIA,250,"AVIA 153, AVIA 240",Undergraduate
+AVIA,252," AVIA 152, AVIA 242",Undergraduate
+AVIA,270," AVIA 150, AVIA 250, AVIA 260",Undergraduate
+AVIA,300, ENG 271W or ENG 272W ,Undergraduate
+AVIA,338,AVIA 201,Undergraduate
+AVIA,340,AVIA 153,Undergraduate
+AVIA,360,"AVIA 243, AVIA 250",Undergraduate
+AVIA,383, AVIA 252,Undergraduate
+AVIA,392," AVIA 242, AVIA 252",Undergraduate
+AVIA,435, AVIA 432,Undergraduate
+AVIA,436, AVIA 340,Undergraduate
+AVIA,437,AVIA 150,Undergraduate
+AVIA,442,AVIA 240,Undergraduate
+AVIA,443,"GEOG 217, AVIA 250, AVIA 340",Undergraduate
+AVIA,444,AVIA 443,Undergraduate
+AVIA,445,AVIA 150,Undergraduate
+AVIA,450,"AVIA 253, AVIA 340",Undergraduate
+AVIA,451,AVIA 253,Undergraduate
+AVIA,455,AVIA 338,Undergraduate
+BIOL,106, BIOL 105 ,Undergraduate
+BIOL,211," BIOL 105, BIOL 106, and MATH 112 ",Undergraduate
+BIOL,215, BIOL 105 and BIOL 106 or consent ,Undergraduate
+BIOL,217, BIOL 105 and BIOL 106 or consent ,Undergraduate
+BIOL,270," One BIOL course and one semester of chemistry from among CHEM 104, CHEM 106, CHEM 111, or CHEM 201 ",Undergraduate
+BIOL,283, Recipient of a MAX scholarship or instructor consent.,Undergraduate
+BIOL,301," BIOL 105, BIOL 106, BIOL 211",Undergraduate
+BIOL,310," BIOL 220, CHEM 104 or CHEM 106 or CHEM 111 or CHEM 201",Undergraduate
+BIOL,316, BIOL 105 and BIOL 106 ,Undergraduate
+BIOL,320," BIOL 105 and BIOL 106, BIOL 211 ",Undergraduate
+BIOL,324, BIOL 220 ,Undergraduate
+BIOL,330," BIOL 220, CHEM 104 or CHEM 106 or CHEM 111 or CHEM 201",Undergraduate
+BIOL,402," BIOL 105, BIOL 106, BIOL 215 or consent",Undergraduate
+BIOL,403, BIOL 215 or consent ,Undergraduate
+BIOL,404," BIOL 105, BIOL 106, BIOL 215, or consent ",Undergraduate
+BIOL,405," BIOL 105, BIOL 106, BIOL 215, or consent of instructor",Undergraduate
+BIOL,408," BIOL 105, BIOL 106, BIOL 215 or consent ",Undergraduate
+BIOL,409," BIOL 105, BIOL 106, BIOL 215 or consent ",Undergraduate
+BIOL,410," BIOL 105, BIOL 106, BIOL 215 or consent ",Undergraduate
+BIOL,412," BIOL 105, BIOL 106, BIOL 215, or consent ",Undergraduate
+BIOL,417, BIOL 100 or BIOL 105 ,Undergraduate
+BIOL,420," BIOL 100 or BIOL 105, BIOL 106 recommended ",Undergraduate
+BIOL,421, BIOL 105 and BIOL 106 or consent ,Undergraduate
+BIOL,424, BIOL 100 or BIOL 105 ,Undergraduate
+BIOL,425, BIOL 211; Co-requisite: BIOL 424,Undergraduate
+BIOL,431," BIOL 105, BIOL 106 or consent ",Undergraduate
+BIOL,435, BIOL 220 ,Undergraduate
+BIOL,436," BIOL 105, BIOL 106, BIOL 215 ",Undergraduate
+BIOL,438, BIOL 100 or BIOL 105 ,Undergraduate
+BIOL,441," BIOL 105, BIOL 106, BIOL 217, one semester organic chemistry recommended. ",Undergraduate
+BIOL,443," BIOL 105, BIOL 106, BIOL 215 or consent. BIOL 217 strongly recommended. ",Undergraduate
+BIOL,451,"BIOL 105, BIOL 106",Undergraduate
+BIOL,452," BIOL 105, BIOL 106, or consent ",Undergraduate
+BIOL,453," BIOL 270 and one semester each of calculus, physics, and organic chemistry, taken concurrently with BIOL 456. ",Undergraduate
+BIOL,454," BIOL 453, taken currently with BIOL 457 ",Undergraduate
+BIOL,456, Concurrent enrollment in BIOL 453 ,Undergraduate
+BIOL,457," BIOL 456, taken concurrently with BIOL 454 ",Undergraduate
+BIOL,460," BIOL 105, BIOL 106, and 1 year of General Chemistry ",Undergraduate
+BIOL,461, BIOL 460 ,Undergraduate
+BIOL,462," BIOL 105, BIOL 106, and General Chemistry ",Undergraduate
+BIOL,464," BIOL 105, BIOL 106, and General Chemistry ",Undergraduate
+BIOL,465, BIOL 464 ,Undergraduate
+BIOL,466," BIOL 105, BIOL 106, and 1 year of General Chemistry ",Undergraduate
+BIOL,467," BIOL 105, BIOL 106, and 1 year of General Chemistry ",Undergraduate
+BIOL,472," BIOL 105, BIOL 106, and BIOL 270 ",Undergraduate
+BIOL,473," BIOL 105, BIOL 106, and BIOL 270",Undergraduate
+BIOL,474," BIOL 105, BIOL 106, and BIOL 270 ",Undergraduate
+BIOL,475, BIOL 270 ,Undergraduate
+BIOL,476," BIOL 105, BIOL 106, BIOL 270 ",Undergraduate
+BIOL,478," BIOL 105, BIOL 106 and BIOL 270 ",Undergraduate
+BIOL,479," BIOL 105, BIOL 106, BIOL 211",Undergraduate
+BIOL,483, Recipient of a MAX scholarship or instructor consent.,Undergraduate
+BIOL,485, 16 credits BIOL ,Undergraduate
+BIOL,497, Consent ,Undergraduate
+BIOL,498, Consent ,Undergraduate
+BLAW,398,Permission of the Chairperson of the department; co-op contract; other prerequisites may also apply.,Undergraduate
+BLAW,450, BLAW 200 ,Undergraduate
+BLAW,452, BLAW 200 ,Undergraduate
+BLAW,453, BLAW 200 ,Undergraduate
+BLAW,455, BLAW 200 ,Undergraduate
+BLAW,474, BLAW 200 ,Undergraduate
+BLAW,476, BLAW 200 ,Undergraduate
+BLAW,477,BLAW 200,Undergraduate
+BUS,397,Must be admitted to a major.,Undergraduate
+BUS,491,All other BBA program courses (excluding two capstone courses) must be complete with a mastery of 70% or higher.,Undergraduate
+BUS,492,BUS 491,Undergraduate
+CDIS,407,"CDIS 306, CDS 307",Undergraduate
+CDIS,431, Concurrent enrollment in CDIS 434 ,Undergraduate
+CDIS,434," Consent, concurrent enrollment in CDIS 431 ",Undergraduate
+CDIS,495,"3 of the following: 402, 417, 438. CDIS 416 is recommended.",Undergraduate
+CHEM,106,Student must demonstrate math placement requirements at or above MATH 112 in the placement chart.  See Mathematics for details.,Undergraduate
+CHEM,111, CHEM 106 or high school chemistry ,Undergraduate
+CHEM,191,High school chemistry or “C” (2.0) or higher in CHEM 104. Student must demonstrate math placement requirements at or above MATH 115 in the placement chart.  See Mathematics for details.,Undergraduate
+CHEM,200, CHEM 191,Undergraduate
+CHEM,201,“C” (2.0) or higher in MATH 112 or the equivalent; high school chemistry or “C” (2.0) or higher in CHEM 104.,Undergraduate
+CHEM,202, “C” (2.0) or higher in CHEM 201 ,Undergraduate
+CHEM,281,CHEM 322,Undergraduate
+CHEM,305, “C” (2.0) or higher in CHEM 202 ,Undergraduate
+CHEM,316, “C” (2.0) or higher in CHEM 202 ,Undergraduate
+CHEM,317, “C” (2.0) or higher in CHEM 202 ,Undergraduate
+CHEM,322," CHEM 202, “C” (2.0) or higher in CHEM 202.",Undergraduate
+CHEM,324,"CHEM 322 with a ""C"" (2.0) or higher.",Undergraduate
+CHEM,325, CHEM 324,Undergraduate
+CHEM,360,CHEM 322. CHEM 324 is strongly recommended.,Undergraduate
+CHEM,407, “C” (2.0) or higher in CHEM 305 ,Undergraduate
+CHEM,419," “C” (2.0) or higher in CHEM 322, MATH 121 ",Undergraduate
+CHEM,423,CHEM 322,Undergraduate
+CHEM,424, CHEM 324. “C” (2.0) or higher,Undergraduate
+CHEM,445,"MATH 121, PHYS 211, CHEM 305",Undergraduate
+CHEM,446,"MATH 122, PHYS 212, CHEM 445",Undergraduate
+CHEM,450,CHEM 445,Undergraduate
+CHEM,451,CHEM 445,Undergraduate
+CHEM,460," BIOL 106, CHEM 324. BIOL 106 or permission “C” (2.0) or higher in all prerequisites.",Undergraduate
+CHEM,461, CHEM 460 ,Undergraduate
+CHEM,465, Concurrent registration in CHEM 460 or completion of CHEM 460 with “C” or higher. CHEM 305 is highly recommended. ,Undergraduate
+CHEM,467,CHEM 360 or CHEM 460,Undergraduate
+CHEM,475,CHEM 305. PHYS 212 or PHYS 223.,Undergraduate
+CHEM,479, Consent ,Undergraduate
+CHEM,481W,"ENG 101, CHEM 324",Undergraduate
+CHEM,489,CHEM 445 or CHEM 465,Undergraduate
+CIS,100,"Goal Areas: GE-09, GE-13",Undergraduate
+CIS,121,MATH 112 or MATH 113 or MATH 115 or MATH 121,Undergraduate
+CIS,122,MATH 113 or MATH 115 or MATH 121; and CS 110 or CIS 121 or IT 210,Undergraduate
+CIS,123,"Select One: MATH 113, MATH 115, MATH 121, MATH 180. Select One: CS 110, CIS 121",Undergraduate
+CIS,202W,"Goal Areas: GE-09, GE-13",Undergraduate
+CIS,223,MATH 121 and CS 111 or CIS 122 or IT 214,Undergraduate
+CIS,224,CS 111 or CIS 122 or IT 214,Undergraduate
+CIS,311,CIS 122,Undergraduate
+CIS,340,CIS 121 or an approved substitute.,Undergraduate
+CIS,350,EE 107 or CIS 121 or an approved substitute.,Undergraduate
+CIS,360,"CIS 121. Select 1: MATH 113, MATH 115, MATH 121. Or an approved substitute.",Undergraduate
+CIS,380,"CIS 122, CIS 340",Undergraduate
+CIS,398,CIS 380,Undergraduate
+CIS,414,"CIS 223, CIS 380",Undergraduate
+CIS,418,"CIS 223, CIS 340",Undergraduate
+CIS,440,CIS 380,Undergraduate
+CIS,442,"CIS 350, CIS 440",Undergraduate
+CIS,443,"CIS 113, CIS 340",Undergraduate
+CIS,444,"CIS 223, CIS 440",Undergraduate
+CIS,450,CIS 350,Undergraduate
+CIS,460,CIS 360,Undergraduate
+CIS,462,CIS 360,Undergraduate
+CIS,464,CIS 360,Undergraduate
+CIS,465,"CIS 223, CIS 380",Undergraduate
+CIS,480,"CIS 223, CIS 380",Undergraduate
+CIS,482,MATH 121. Select one: STAT 154 or PSYC 201. Select one: CS 230 or CIS 380,Undergraduate
+CIS,483,CIS 380,Undergraduate
+CIS,484,"CIS 223, CIS 380",Undergraduate
+CIS,485,"CIS 223, CIS 380",Undergraduate
+CIVE,101, MATH 113 or MATH 115 or MATH 121,Undergraduate
+CIVE,201, CIVE 101 ,Undergraduate
+CIVE,293, Recipient of a MAX scholarship or instructor consent.,Undergraduate
+CIVE,321, CIVE 214 or ME 214,Undergraduate
+CIVE,340, CIVE 223 or ME 223 ,Undergraduate
+CIVE,350," CIVE 321 or ME 321, ME 291",Undergraduate
+CIVE,360, CIVE 223 or ME 223,Undergraduate
+CIVE,370W, CIVE 145 ,Undergraduate
+CIVE,380,MATH 321. CHEM 201 or GEOL 291,Undergraduate
+CIVE,398, CIVE 201. At least 60 credits earned; in good standing; instructor permission; co-op contract; other prerequisites may also apply.,Undergraduate
+CIVE,401W,"CIVE 340, CIVE 350, CIVE 360, CIVE 370W",Undergraduate
+CIVE,402W,CIVE 401W,Undergraduate
+CIVE,432, ME 223 ,Undergraduate
+CIVE,435, CIVE 340 & CIVE 370 ,Undergraduate
+CIVE,436," CIVE 350, CIVE 360 ",Undergraduate
+CIVE,446, CIVE 340 ,Undergraduate
+CIVE,447, CIVE 340,Undergraduate
+CIVE,448, CIVE 340 ,Undergraduate
+CIVE,452, CIVE 350 ,Undergraduate
+CIVE,454, CIVE 350 ,Undergraduate
+CIVE,455,CIVE 350,Undergraduate
+CIVE,458, CIVE 350 ,Undergraduate
+CIVE,461," CIVE 370, CIVE 223 or ME 223",Undergraduate
+CIVE,465, CIVE 360 ,Undergraduate
+CIVE,467, CIVE 360 ,Undergraduate
+CIVE,470,CIVE 370W,Undergraduate
+CIVE,471,"CIVE 145, CIVE 370W",Undergraduate
+CIVE,475,CIVE 370W,Undergraduate
+CIVE,476,CIVE 370W,Undergraduate
+CIVE,478W,"CIVE 370W, ME 291",Undergraduate
+CIVE,481, CIVE 380 ,Undergraduate
+CIVE,484, CIVE 380,Undergraduate
+CIVE,493, Recipient of a MAX scholarship or instructor consent.,Undergraduate
+CM,210,"CM 111, CM 120, CM 130, CIS 101",Undergraduate
+CM,220, CM 210,Undergraduate
+CM,222," PHYS 101, MATH 113 or MATH 115 or MATH 121",Undergraduate
+CM,271, MATH 113 or MATH 115 or MATH 121,Undergraduate
+CM,297," CM 108, CM 210",Undergraduate
+CM,300, CM 210,Undergraduate
+CM,310, MATH 113 or MATH 115 or MATH 121,Undergraduate
+CM,330,CM 220,Undergraduate
+CM,340," CM 220, CM 222, CM 297",Undergraduate
+CM,350, CM 220,Undergraduate
+CM,380," CM 220, CM 300",Undergraduate
+CM,410," CM 310, CM 330",Undergraduate
+CM,450,CM 340,Undergraduate
+CM,492, Senior Standing or instructor permission,Undergraduate
+CM,497," CM 300, CM 310, CM 330",Undergraduate
+CMST,306,CMST 301,Undergraduate
+CMST,485W,"CMST 301, CMST 302, CMST 306",Undergraduate
+CORR,200,CJ 101 and SOC 101,Undergraduate
+CORR,291, Consent ,Undergraduate
+CORR,350, CORR 200,Undergraduate
+CORR,355, CORR 350,Undergraduate
+CORR,417, SOC 101 ,Undergraduate
+CORR,441, SOC 101 ,Undergraduate
+CORR,442, SOC 101 ,Undergraduate
+CORR,447W,SOC 101 and CJ 101,Undergraduate
+CORR,485, SOC 101 ,Undergraduate
+CORR,496, Consent ,Undergraduate
+CORR,497, Completion of all other required CORR courses. ,Undergraduate
+CORR,498, Consent ,Undergraduate
+CORR,499, Consent ,Undergraduate
+CS,171, MATH 113 or MATH 115,Undergraduate
+CS,209, Consent ,Undergraduate
+CS,210, CS 111 and MATH 121,Undergraduate
+CS,230,CIS 121,Undergraduate
+CS,271," EET 113, MATH 121",Undergraduate
+CS,293, Recipient of a MAX scholarship or instructor consent,Undergraduate
+CS,294, Consent of instructor,Undergraduate
+CS,300, CS 210 and CS 220,Undergraduate
+CS,301,"CIS 223, CIS 224 or EE 234, and admission to major.",Undergraduate
+CS,302,"CIS 223, CIS 224, and admission to major.",Undergraduate
+CS,303,"CIS 223, CIS 224, and admission to major.",Undergraduate
+CS,304,"CIS 223, CIS 224, and admission to major.",Undergraduate
+CS,306,CIS 223 and CIS 224 or EE 234,Undergraduate
+CS,310, CS 210,Undergraduate
+CS,315, CS 305 or permission of instructor.,Undergraduate
+CS,320," CS 111 and CS 220, or EE 334",Undergraduate
+CS,330, CS 230,Undergraduate
+CS,340, CS 210 and CS 320,Undergraduate
+CS,350,"CIS 223, EE 234",Undergraduate
+CS,351, CS 305 or EE 234. Permission of instructor,Undergraduate
+CS,360," CS 111 or EE 107, and CS 320",Undergraduate
+CS,361, CS 210,Undergraduate
+CS,365," CS 210, CS 220, MATH 121",Undergraduate
+CS,370, CS 210,Undergraduate
+CS,380, CS 300,Undergraduate
+CS,391,CIS 223 and MATH 280,Undergraduate
+CS,391W,CIS 223 and MATH 280,Undergraduate
+CS,392,CS 391,Undergraduate
+CS,392W,CS 391W,Undergraduate
+CS,400, CS 300 and MATH 121,Undergraduate
+CS,410,Admission to major or permission.,Undergraduate
+CS,415,Admission to major or permission.,Undergraduate
+CS,420,Admission to major or permission.,Undergraduate
+CS,425, CS 210 and CS 320,Undergraduate
+CS,430,CIS 223 or CS 230,Undergraduate
+CS,431,CIS 223 or CS 230,Undergraduate
+CS,433, CS 210 and STAT 354,Undergraduate
+CS,452, CS 350 and STAT 354,Undergraduate
+CS,454, CS 320 and CS 350,Undergraduate
+CS,455, CS 305 and Math 247 or permission of instructor.,Undergraduate
+CS,460,CIS 223 or EE 395,Undergraduate
+CS,461," CS 305, EE 395. Permission of instructor",Undergraduate
+CS,465,Admission to major or permission.,Undergraduate
+CS,470,Admission to major or permission.,Undergraduate
+CS,480,Admission to major or permission.,Undergraduate
+CS,481," CS 300, CS 380 and MATH 121",Undergraduate
+CS,482," CS 300, CS 380 and MATH 354",Undergraduate
+CS,490W, Senior standing and successful completion of all core requirements.,Undergraduate
+CS,491,"CS 301, CS 302, CS 303, CS 304, CS 392",Undergraduate
+CS,491W,"CS 301, CS 302, CS 303, CS 304, CS 392W",Undergraduate
+CS,492,"CS 491 and (CS 306, CS 401, CS 403, CS 406, CS 410, CS 420, CS 435, CS 440, CS 445, CS 450, CS 465, CS 470, CS 480, or CS 485)",Undergraduate
+CS,492W,"CS 491W and (CS 306, CS 401, CS 403, CS 406, CS 410, CS 420, CS 435, CS 440, CS 445, CS 450, CS 465, CS 470, CS 480, or CS 485)",Undergraduate
+CS,493, Recipient of a MAX scholarship or instructor consent ,Undergraduate
+CS,494, Consent of Instructor,Undergraduate
+CS,495,Admission to major.,Undergraduate
+CS,496, Consent,Undergraduate
+CS,497," Permanent admission to the CS major, CS 300, consent.",Undergraduate
+CS,498W, Senior standing and consent,Undergraduate
+CS,499,Consent,Undergraduate
+DANC,120W,Consent,Undergraduate
+DANC,123,Consent,Undergraduate
+DANC,125,Consent,Undergraduate
+DANC,126,Consent,Undergraduate
+DANC,127,Consent,Undergraduate
+DANC,128,Consent,Undergraduate
+DANC,129, Consent ,Undergraduate
+DANC,223,Consent,Undergraduate
+DANC,225,DANC 120 or DANC120W,Undergraduate
+DANC,227,Consent,Undergraduate
+DANC,321,"DANC 228, DANC 322. Consent",Undergraduate
+DANC,322,Consent,Undergraduate
+DANC,327,Consent,Undergraduate
+DANC,329,Consent. ,Undergraduate
+DANC,333,Consent,Undergraduate
+DANC,421, DANC 321 ,Undergraduate
+DANC,424, DANC 324 ,Undergraduate
+DANC,427,Consent,Undergraduate
+DANC,429,DANC 484W,Undergraduate
+DANC,431," DANC 430, consent",Undergraduate
+DANC,484," DANC 120, DANC 225, DANC 226, DANC 228, DANC 321 ",Undergraduate
+DANC,484W,DANC 225,Undergraduate
+DANC,497, consent,Undergraduate
+DANC,499, consent,Undergraduate
+DHYG,223," BIOL 220, CHEM 106 or CHEM 111",Undergraduate
+DHYG,454, DHYG 444 ,Undergraduate
+DHYG,455, DHYG 445 ,Undergraduate
+ECON,207,MATH 112 or equivalent,Undergraduate
+ECON,301,"ECON 201, ECON 202, ECON 207, MATH 112 or equivalent",Undergraduate
+ECON,305, ECON 201 and ECON 202 ,Undergraduate
+ECON,320W, ECON 201 or ECON 202,Undergraduate
+ECON,355,"ECON 201, ECON 202 and ECON 301",Undergraduate
+ECON,356,"ECON 201, ECON 202 and ECON 301",Undergraduate
+ECON,403, ECON 201 and ECON 202 ,Undergraduate
+ECON,405, ECON 305 ,Undergraduate
+ECON,406, ECON 201 and ECON 202 ,Undergraduate
+ECON,411, ECON 201 and ECON 202 ,Undergraduate
+ECON,412, ECON 201 and ECON 202 ,Undergraduate
+ECON,416, ECON 202 ,Undergraduate
+ECON,420, ECON 201 and ECON 202 ,Undergraduate
+ECON,440, ECON 201 and ECON 202 ,Undergraduate
+ECON,450, ECON 201 and ECON 202 ,Undergraduate
+ECON,462," ECON 201, ECON 202, and ECON 207 ",Undergraduate
+ECON,463, ECON 207,Undergraduate
+ECON,472,"ECON 201, ECON 202 and ECON 207",Undergraduate
+ECON,480,ECON 201 and ECON 202,Undergraduate
+ECON,485W," ECON 355, ECON 356, ECON 301, and ECON 462. In addition a student must get a minimum of a “C” grade in each prerequisite.",Undergraduate
+ECON,498,"ECON 207, ECON 355, ECON 356",Undergraduate
+ECON,499,ECON 201 and ECON 202,Undergraduate
+EE,106,MATH 112,Undergraduate
+EE,107,"EE 106, EET 141",Undergraduate
+EE,230,"PHYS 222 or concurrent, MATH 321 or concurrent",Undergraduate
+EE,231," EE 230 and EE 240, MATH 321, PHYS 222 ",Undergraduate
+EE,234,EE 107 or EET 142,Undergraduate
+EE,235,EE 234,Undergraduate
+EE,240, Must be taken concurrently with EE 230. ,Undergraduate
+EE,241,"EE, 230, EE 231, EE 240",Undergraduate
+EE,245,EE 107,Undergraduate
+EE,253,EE 230 and concurrent with EE 244.,Undergraduate
+EE,254,"EE 230, EE 240 and concurrently with EE 231 and EE 244",Undergraduate
+EE,281," EE 106, EE 107",Undergraduate
+EE,298, to be determined by course topic ,Undergraduate
+EE,303," PHYS 222, and MATH 321 ",Undergraduate
+EE,332,EE 231,Undergraduate
+EE,333, EE 332 ,Undergraduate
+EE,336, Junior Standing,Undergraduate
+EE,337,EE 336,Undergraduate
+EE,341,EE 230. MATH 321 and PHYS 222,Undergraduate
+EE,342,EE 231 and EE 332 taken concurrently.,Undergraduate
+EE,343,"EE 332, EE 333",Undergraduate
+EE,344,Concurrent with EE 334,Undergraduate
+EE,350,"EE 231, MATH 223, MATH 321 and PHYS 222",Undergraduate
+EE,353,"EE 341, MATH 223",Undergraduate
+EE,358, EE 341 ,Undergraduate
+EE,363,Concurrent with EE 353,Undergraduate
+EE,368,EE 341 and concurrent with EE 358,Undergraduate
+EE,390,EE334 & EE344,Undergraduate
+EE,395," EE 234, EE 235, EE 281",Undergraduate
+EE,398, EE 235. At least 60 credits earned; in good standing; instructor permission; co-op contract; other prerequisites may also apply.,Undergraduate
+EE,450,Advanced standing in the program,Undergraduate
+EE,453, EE 353 and EE 363 ,Undergraduate
+EE,463, EE 244 ,Undergraduate
+EE,467W, EE 337 and senior standing ,Undergraduate
+EE,471, EE 358 and EE 368 ,Undergraduate
+EE,472, EE 341 ,Undergraduate
+EE,473, EE 231 or via permission from instructor,Undergraduate
+EE,474, EE 333,Undergraduate
+EE,475,EE 303 and EE 332,Undergraduate
+EE,476, EE 350 ,Undergraduate
+EE,477W, EE 467 and Senior Standing,Undergraduate
+EE,478,EE 472,Undergraduate
+EE,479, EE 303 ,Undergraduate
+EE,480,Concurrent with EE 475,Undergraduate
+EE,481,Concurrent with EE 484,Undergraduate
+EE,482, EE 230 ,Undergraduate
+EE,483,EE333,Undergraduate
+EE,484, EE 333 ,Undergraduate
+EE,485,EE 484,Undergraduate
+EE,486,EE 231. EE 341,Undergraduate
+EE,487, EE 353 and EE 363 ,Undergraduate
+EE,489," EE 107, EE 334, EE 395",Undergraduate
+EE,498, to be determined by course topic,Undergraduate
+EEC,427, EEC 333 ,Undergraduate
+EEC,473,Methods Courses; admission to student teaching.,Undergraduate
+EET,113,MATH 112 or MATH 115,Undergraduate
+EET,114,MATH 113 or MATH 115 may be taken concurrently.,Undergraduate
+EET,142, EET 141 ,Undergraduate
+EET,143,"EE 107, EET 142",Undergraduate
+EET,221, EET 113,Undergraduate
+EET,222, EET 113 ,Undergraduate
+EET,223,"MATH 121, PHYS 211, EET 222",Undergraduate
+EET,254, EET 113,Undergraduate
+EET,298, to be determined by course topic ,Undergraduate
+EET,310,MATH 180,Undergraduate
+EET,315,EE 234 and EE 235 OR EET 254,Undergraduate
+EET,340,EE 234 and EE 235 or EET 254,Undergraduate
+EET,341,EET 221,Undergraduate
+EET,355,"EET 114, MATH 127, PHYS 212",Undergraduate
+EET,393, Permission required. ,Undergraduate
+EET,398, EET 223. At least 60 credits earned; in good standing; instructor permission; co-op contract; other prerequisites may also apply.,Undergraduate
+EET,430,"MATH 180, EET 384",Undergraduate
+EET,431, EET 430 ,Undergraduate
+EET,441,"MATH 180, EET 384",Undergraduate
+EET,452,"MATH 127, EET 223",Undergraduate
+EET,455,EET 222,Undergraduate
+EET,456,EET 223,Undergraduate
+EET,458," 25 hours of EET courses, or consent ",Undergraduate
+EET,461,"EET 223, EET 384",Undergraduate
+EET,462, EET 461 ,Undergraduate
+EET,486,"STAT 154, EET 456",Undergraduate
+EET,487,"PHYS 212, EET 223",Undergraduate
+EET,492, EET 223 ,Undergraduate
+EET,498, to be determined by course topic ,Undergraduate
+ELE,410,Admission to Professional Education and the Elementary Education program.,Undergraduate
+ELE,411,Admission into Professional Education and the Elementary Education program,Undergraduate
+ELE,412,Admission into Professional Education and the Elementary Education program,Undergraduate
+ELE,413,Admission into Professional Education and the Elementary Education program,Undergraduate
+ELE,420,Admission into Professional Education and the Elementary Education program,Undergraduate
+ELE,421,Admission into Professional Education and the Elementary Education program,Undergraduate
+ELE,422,Admission into Professional Education and the Elementary Education program,Undergraduate
+ELE,423,Admission into Professional Education and the Elementary Education program,Undergraduate
+ELE,430,Admission into Professional Education and the Elementary Education program,Undergraduate
+ELE,431,Admission into Professional Education and the Elementary Education program,Undergraduate
+ELE,432,Admission into Professional Education and the Elementary Education program,Undergraduate
+ELE,440,Admission into Professional Education and the Elementary Education program,Undergraduate
+ENG,112W, ENG 101 ,Undergraduate
+ENG,201W, ENG 101 ,Undergraduate
+ENG,211W, ENG 101 ,Undergraduate
+ENG,212W, ENG 101 ,Undergraduate
+ENG,213W, ENG 101 ,Undergraduate
+ENG,271W, ENG 101 ,Undergraduate
+ENG,275W, ENG 101 ,Undergraduate
+ENG,301W, ENG 101 and permission of instructor ,Undergraduate
+ENG,320, ENG 275W ,Undergraduate
+ENG,321, ENG 275W ,Undergraduate
+ENG,327, ENG 275W ,Undergraduate
+ENG,328, ENG 275W,Undergraduate
+ENG,410, ENG 275W,Undergraduate
+ENG,430, Consent ,Undergraduate
+ENG,441, 6 semester credits in literature ,Undergraduate
+ENG,442,ENG 340 or ENG 342,Undergraduate
+ENG,443,ENG 340 or ENG 343,Undergraduate
+ENG,444,ENG 341 or ENG 344,Undergraduate
+ENG,445, Writing course or consent ,Undergraduate
+ENG,454," ENG 201W, ENG 301W",Undergraduate
+ENG,455," ENG 201W, ENG 301W",Undergraduate
+ENG,466, ENG 271W or ENG 272W,Undergraduate
+ENG,469, ENG 271W,Undergraduate
+ENG,470, Consent ,Undergraduate
+ENG,474W, ENG 271W or ENG 272W ,Undergraduate
+ENG,499, Consent ,Undergraduate
+ENGR,293, Recipient of a MAX scholarship or instructor consent,Undergraduate
+ENGR,299, Admission to Integrated Engineering major or consent. ,Undergraduate
+ENGR,300,Students must be admitted to the Department of Integrated Engineering minor or certificate programs.,Undergraduate
+ENGR,302, ENGR 301,Undergraduate
+ENGR,312W, ENGR 311W,Undergraduate
+ENGR,321,"Admission to major, minor or certificate programs.",Undergraduate
+ENGR,322,"Admission to major, minor or certificate programs.",Undergraduate
+ENGR,331,Admission to program.,Undergraduate
+ENGR,332,Admission to program.,Undergraduate
+ENGR,333,Admission to program.,Undergraduate
+ENGR,334,Admission to program.,Undergraduate
+ENGR,335,Admission to program.,Undergraduate
+ENGR,336,Admission to program.,Undergraduate
+ENGR,341,Admission to program.,Undergraduate
+ENGR,342,Admission to program.,Undergraduate
+ENGR,343,Admission to program.,Undergraduate
+ENGR,344,Admission to program.,Undergraduate
+ENGR,345,Admission to program.,Undergraduate
+ENGR,346,Admission to program.,Undergraduate
+ENGR,350,"Admission to major, minor or certificate programs.",Undergraduate
+ENGR,351,"Admission to major, minor or certificate programs.",Undergraduate
+ENGR,352,"Admission to major, minor or certificate programs.",Undergraduate
+ENGR,353,"Admission to major, minor or certificate programs.",Undergraduate
+ENGR,354,"Admission to major, minor or certificate programs.",Undergraduate
+ENGR,355,"Prerequisites: Admission to major, minor or certificate programs.",Undergraduate
+ENGR,398, MATH 223. At least 60 credits earned; in good standing; instructor permission; co-op contract; other prerequisites may also apply.,Undergraduate
+ENGR,401," ENGR 302, ENGR 312W. At least 14 credits earned in technical competencies. ",Undergraduate
+ENGR,402," ENGR 401, ENGR 411W. At least 22 credits earned in technical competencies.",Undergraduate
+ENGR,411W, ENGR 312W,Undergraduate
+ENGR,412W," ENGR 401, ENGR 411W",Undergraduate
+ENGR,421,"Admission to major, minor or certificate programs.",Undergraduate
+ENGR,422,"Admission to major, minor or certificate programs.",Undergraduate
+ENGR,431,"Admission to major, minor or certificate programs.",Undergraduate
+ENGR,432,"Admission to major, minor or certificate programs.",Undergraduate
+ENGR,441,"Admission to major, minor or certificate programs.",Undergraduate
+ENGR,442,"Admission to major, minor or certificate programs.",Undergraduate
+ENGR,450,"Admission to major, minor or certificate programs and faculty approval for study that extends a core topic area.",Undergraduate
+ENGR,451,"Admission to major, minor or certificate programs and faculty approval for study that extends a core topic area.",Undergraduate
+ENGR,452,"Admission to major, minor or certificate programs and faculty approval for study that extends a core topic area.",Undergraduate
+ENGR,453,"Admission to major, minor or certificate programs and faculty approval for study that extends a core topic area.",Undergraduate
+ENGR,454,"Admission to major, minor or certificate programs and faculty approval for study that extends a core topic area.",Undergraduate
+ENGR,456,"Admission to major, minor or certificate programs and faculty approval for study that extends a core topic area.",Undergraduate
+ENGR,457,"Admission to major, minor or certificate programs and faculty approval for study that extends a core topic area.",Undergraduate
+ENGR,458,"Admission to major, minor or certificate programs and faculty approval for study that extends a core topic area.",Undergraduate
+ENGR,459,"Admission to major, minor or certificate programs and faculty approval for study that extends a core topic area.",Undergraduate
+ENGR,460,"Admission to major, minor or certificate programs and faculty approval for study that extends a core topic area.",Undergraduate
+ENGR,461,"Admission to major, minor or certificate programs and faculty approval for study that extends a core topic area.",Undergraduate
+ENGR,462,"Admission to major, minor or certificate programs and faculty approval for study that extends a core topic area.",Undergraduate
+ENGR,463,"Admission to major, minor or certificate programs and faculty approval for study that extends a core topic area.",Undergraduate
+ENGR,475,"Admission to major, minor or certificate programs and faculty approval for study that extends a core topic area.",Undergraduate
+ENGR,476,"In-depth, advanced study of an engineering area related to an engineering project or foundation topic in the focus area of Entrepreneurship. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.",Undergraduate
+ENGR,477,"Admission to major, minor or certificate programs and faculty approval for study that extends a core topic area.",Undergraduate
+ENGR,478,"Admission to major, minor or certificate programs and faculty approval for study that extends a core topic area.",Undergraduate
+ENGR,479,"Admission to major, minor or certificate programs and faculty approval for study that extends a core topic area.",Undergraduate
+ENGR,480,"Admission to major, minor or certificate programs and faculty approval for study that extends a core topic area.",Undergraduate
+ENGR,493, Recipient of a MAX scholarship or instructor consent.,Undergraduate
+ENGR,496, Consent,Undergraduate
+ENGR,498, Senior standing in program and at least 14 credits earned in technical competencies,Undergraduate
+ENVR,450, 1 year CHEM ,Undergraduate
+ENVR,470, ENVR 440,Undergraduate
+ETHN,299, Two other ETHN courses. ,Undergraduate
+ETHN,401," ANTH 101, ANTH 230 or consent; ETHN 100, ETHN 101 or ETHN 150 or consent ",Undergraduate
+ETHN,402W," ETHN 100 or ETHN 101 or ETHN 150, or Consent ",Undergraduate
+ETHN,410, ETHN 100 or ATHN 400 ,Undergraduate
+ETHN,420, ETHN 110 or ETHN 400 or consent ,Undergraduate
+ETHN,440," ETHN 400, or consent ",Undergraduate
+ETHN,450," ETHN 400, or consent ",Undergraduate
+ETHN,470," ETHN 400, or consent ",Undergraduate
+ETHN,490," ETHN 400, or consent ",Undergraduate
+ETHN,495, ETHN major ,Undergraduate
+ETHN,497, ETHN major or minor ,Undergraduate
+ETHN,499, 2 ETHN courses at 300/400 level ,Undergraduate
+FCS,242," BIOL 220, CHEM 106 or CHEM 111",Undergraduate
+FCS,340, FCS 150,Undergraduate
+FCS,342," FCS 252, FCS 340, FCS 350 ",Undergraduate
+FCS,350, FCS 252 ,Undergraduate
+FCS,420, FCS 242,Undergraduate
+FCS,439, FCS 140 or FCS 242,Undergraduate
+FCS,440," BIOL 330, CHEM 111, FCS 242 ",Undergraduate
+FCS,442,"FCS 420, FCS 440, HLTH 321",Undergraduate
+FCS,444," ENG 271W, FCS 340, HLTH 475 ",Undergraduate
+FCS,446,FCS 242,Undergraduate
+FCS,448,FCS 442,Undergraduate
+FCS,492, Graduation by the following May to December; FCS 497 or concurrent ,Undergraduate
+FCS,497, Consent ,Undergraduate
+FILM,317, FILM 217 or permission of instructor,Undergraduate
+FILM,416,FILM 402 or FILM 412,Undergraduate
+FILM,498, Consent of instructor,Undergraduate
+FILM,499, Consent of instructor,Undergraduate
+FINA,362,ACCT 200,Undergraduate
+FINA,375, ECON 207,Undergraduate
+FINA,398,Permission of the Chairperson of the department; co-op contract; other prerequisites may also apply.,Undergraduate
+FINA,400,FINA 362,Undergraduate
+FINA,458, FINA 100 or FINA 362 ,Undergraduate
+FINA,459,"ACT 330, FINA 458, FINA 460, FINA 470. Select FINA 100 or FINA 362.",Undergraduate
+FINA,460, FINA 362 ,Undergraduate
+FINA,461, FINA 362 ,Undergraduate
+FINA,462, FINA 362 ,Undergraduate
+FINA,463, FINA 362 and FINA 460 ,Undergraduate
+FINA,464, FINA 362 ,Undergraduate
+FINA,466,FINA 100 or FINA 362,Undergraduate
+FINA,477, FINA 100 or FINA 362 ,Undergraduate
+FINA,480, FINA 362 ,Undergraduate
+FINA,482,FINA 362,Undergraduate
+FINA,492, Permission Required,Undergraduate
+FINA,493, FINA 362.,Undergraduate
+FINA,497, Permission Required,Undergraduate
+FINA,498, Permission Required,Undergraduate
+FINA,499, Permission Required,Undergraduate
+FREN,102, FREN 101 or equivalent ,Undergraduate
+FREN,201, One year university French or equivalent ,Undergraduate
+FREN,202, FREN 201 or equivalent ,Undergraduate
+FREN,214," FREN 101, FREN 102, or equivalent ",Undergraduate
+FREN,216," FREN 101, FREN 102, or equivalent ",Undergraduate
+FREN,217," FREN 101, FREN 102, or equivalent ",Undergraduate
+FREN,261," FREN 201, FREN 202, or equivalent ",Undergraduate
+FREN,293," FREN 101, FREN 102, or equivalent ",Undergraduate
+FREN,301," FREN 201, FREN 202, or equivalent ",Undergraduate
+FREN,302W," FREN 201, FREN 202, or equivalent ",Undergraduate
+FREN,304," FREN 201, FREN 202, or equivalent ",Undergraduate
+FREN,305," FREN 201, FREN 202, or equivalent ",Undergraduate
+FREN,314," FREN 201, FREN 202, or equivalent ",Undergraduate
+FREN,315," FREN 201, FREN 202, or equivalent ",Undergraduate
+FREN,316," FREN 201, FREN 202, or equivalent ",Undergraduate
+FREN,317," FREN 201, FREN 202, or equivalent ",Undergraduate
+FREN,318," FREN 201, FREN 202, or equivalent ",Undergraduate
+FREN,322," FREN 201, FREN 202, or equivalent ",Undergraduate
+FREN,323," FREN 201, FREN 202, or equivalent ",Undergraduate
+FREN,350," FREN 201, FREN 202, or equivalent ",Undergraduate
+FREN,366," FREN 201, FREN 202, or equivalent ",Undergraduate
+FREN,393," FREN 201, FREN 202, or equivalent",Undergraduate
+FREN,402," FREN 201, FREN 202, or equivalent ",Undergraduate
+FREN,404," FREN 201, FREN 202, or equivalent ",Undergraduate
+FREN,405," FREN 201, FREN 202, or equivalent ",Undergraduate
+FREN,406," FREN 201, FREN 202, or equivalent ",Undergraduate
+FREN,414," FREN 201, FREN 202, or equivalent",Undergraduate
+FREN,416," FREN 201, FREN 202, or equivalent ",Undergraduate
+FREN,417," FREN 201, FREN 202, or equivalent ",Undergraduate
+FREN,420," FREN 201, FREN 202, or equivalent ",Undergraduate
+FREN,432," FREN 201, FREN 202, or equivalent ",Undergraduate
+FREN,442," FREN 201, FREN 202, or equivalent ",Undergraduate
+FREN,452," FREN 201, FREN 202, or equivalent ",Undergraduate
+FREN,492,"FREN 201, FREN 202, or equivalent",Undergraduate
+FREN,494," FREN 201, FREN 202, or equivalent ",Undergraduate
+FREN,497," FREN 201, FREN 202, or equivalent ",Undergraduate
+FREN,499," FREN 201, FREN 202, or equivalent ",Undergraduate
+GEOG,299, Consent ,Undergraduate
+GEOG,412, GEOG 217 ,Undergraduate
+GEOG,416W,Either Geog 101 or Geol 121 and Geog 315 or 415 are recommended. Or instructor consent.,Undergraduate
+GEOG,417,Either GEOG 101 or ANTH 210; We strongly encourage students to take GEOG 315 before enrolling. Geol 121 can be substituted for GEOG 101 with instructor permission.,Undergraduate
+GEOG,471, GEOG 373 or equivalent ,Undergraduate
+GEOG,473, GEOG 373 ,Undergraduate
+GEOG,475," GEOG 373, GEOG 474",Undergraduate
+GEOG,477, Consent ,Undergraduate
+GEOG,479,"Prerequisite: GEOG 373, or 473/573, or permission of instructor.",Undergraduate
+GEOG,481,GEOG 373,Undergraduate
+GEOG,482,GEOG 373,Undergraduate
+GEOG,483,GEOG 373,Undergraduate
+GEOG,497, Consent ,Undergraduate
+GEOG,499, Consent ,Undergraduate
+GEOL,201, GEOL 100 or GEOL 121 ,Undergraduate
+GEOL,302, GEOL 201,Undergraduate
+GEOL,310," AST 101, CHEM 201, GEOL 121 ",Undergraduate
+GEOL,320W, GEOL 121,Undergraduate
+GEOL,330, GEOL 121 ,Undergraduate
+GEOL,360,"CHEM 191, CHEM 201, GEOL/BIOL 104 or instructor permission.",Undergraduate
+GEOL,401, GEOL 100 or GEOL 121 and GEOL 122 ,Undergraduate
+GEOL,410, GEOL 121 ,Undergraduate
+GEOL,430," GEOL 121, GEOL 201, GEOL 122",Undergraduate
+GEOL,440," GEOL 121, GEOL 122, GEOL 201, GEOL 320W, GEOL 330",Undergraduate
+GEOL,449, GEOL 121 ,Undergraduate
+GEOL,450," CHEM 201, GEOL 121 ",Undergraduate
+GER,102, GER 101 or equivalent ,Undergraduate
+GER,201, GER 102 or equivalent ,Undergraduate
+GER,202, GER 201 or equivalent ,Undergraduate
+GER,299, as appropriate for level of project ,Undergraduate
+GER,340, Two years of university level German or equivalent. ,Undergraduate
+GER,341, completion of GER 202 or equivalent. ,Undergraduate
+GER,342, Completion of GER 202 or equivalent ,Undergraduate
+GER,343, Completion of GER 202 or equivalent ,Undergraduate
+GER,393, Intermediate Sequence ,Undergraduate
+GER,441, Completion of at least one 300 level course in German. ,Undergraduate
+GER,442, Completion of readings GER 302 or equivalent,Undergraduate
+GER,445, Completion of a least one 300 level German course. ,Undergraduate
+GER,490," GER 340, GER 341, GER 342, GER 343, GER 441. Student has to be admitted as a German major or minor and of senior standing.",Undergraduate
+GER,493, Experience appropriate for level of credit ,Undergraduate
+GER,497, Experience appropriate to project ,Undergraduate
+GER,499, As appropriate for level of project ,Undergraduate
+GERO,398, At least 60 credits earned; in good standing; instructor permission; co-op contract; other prerequisites may also apply.,Undergraduate
+GERO,497, Consent ,Undergraduate
+GERO,498, by application and consent only ,Undergraduate
+GWS,277, Women’s Studies major/minor ,Undergraduate
+GWS,340, GWS 110 or GWS 220 or consent ,Undergraduate
+GWS,477, Must be department major/minor ,Undergraduate
+GWS,497, GWS 110 or GWS 220 and consent. ,Undergraduate
+HIST,390,Permission of instructor.,Undergraduate
+HIST,391,Permission of instructor.,Undergraduate
+HIST,392,Permission of instructor.,Undergraduate
+HLTH,260,HLTH 101,Undergraduate
+HLTH,360,"HLTH 101, HLTH 260.",Undergraduate
+HLTH,361W,HLTH 360,Undergraduate
+HLTH,370,HLTH 225,Undergraduate
+HLTH,371,HLTH 225,Undergraduate
+HLTH,372,HLTH 225,Undergraduate
+HLTH,380W,"HLTH 360, HLTH 361W",Undergraduate
+HLTH,406, HLTH 225,Undergraduate
+HLTH,407, HLTH 225,Undergraduate
+HLTH,408W, HLTH 225,Undergraduate
+HLTH,420W,HLTH 320,Undergraduate
+HLTH,456, HLTH 225 ,Undergraduate
+HLTH,469, HLTH 225 ,Undergraduate
+HLTH,475," MATH 110, STAT 154, Or any other mathematics course higher than MATH 110.",Undergraduate
+HLTH,477," HP 290, HP 414 ",Undergraduate
+HLTH,480, HLTH 380W,Undergraduate
+HLTH,482, HLTH 380W,Undergraduate
+HLTH,495,HLTH 380W,Undergraduate
+HLTH,496,"HLTH 260, HLTH 360, HLTH 361W, HLTH 380W, HLTH 454, HLTH 460, HLTH 480, HLTH 482, HLTH 495",Undergraduate
+HLTH,497, Completion of all Alcohol and Drug Studies required core courses.,Undergraduate
+HONR,375,HONR 201,Undergraduate
+HONR,475,"HONR 201, HONR 375",Undergraduate
+HP,146, Bowling experience/averages.,Undergraduate
+HP,147, Selection for team ,Undergraduate
+HP,148, Selection for team ,Undergraduate
+HP,149, Selection for team ,Undergraduate
+HP,150, Selection for team ,Undergraduate
+HP,152, Selection for team ,Undergraduate
+HP,153, Selection for team ,Undergraduate
+HP,154, Selection for team ,Undergraduate
+HP,155, Selection for team ,Undergraduate
+HP,156, Selection for team ,Undergraduate
+HP,157, Selection for team ,Undergraduate
+HP,158, Selection for team ,Undergraduate
+HP,159, Selection for team ,Undergraduate
+HP,161, Selection for team ,Undergraduate
+HP,182,"Human Performance major or Aquatic emphasis. Ability to swim front crawl, back crawl, elementary backstroke, breaststroke, sidestroke. Developing teaching skills and curriculum.",Undergraduate
+HP,190, Varies depending on activity ,Undergraduate
+HP,245," Front crawl, back crawl, elementary backstroke, sidestroke, breaststroke. Spring",Undergraduate
+HP,257," Swim 500 yards. Front crawl, back crawl, elementary backstroke, breaststroke, sidestroke.",Undergraduate
+HP,290, SOC 101 ,Undergraduate
+HP,301, Competitive swimming experience. ,Undergraduate
+HP,302, Wrestling experience or wrestling class. ,Undergraduate
+HP,303, Volleyball experience or consent. ,Undergraduate
+HP,310, Softball experience or consent. ,Undergraduate
+HP,314,BIOL 330,Undergraduate
+HP,330,"HP 202, HP 295",Undergraduate
+HP,331,"HP 201, HP 295",Undergraduate
+HP,332,"HP 201, HP 295",Undergraduate
+HP,334,"HP 201, HP 295",Undergraduate
+HP,340,HLTH 210,Undergraduate
+HP,348,BIOL 220,Undergraduate
+HP,363,BIOL 220,Undergraduate
+HP,387, KSP 330,Undergraduate
+HP,388,"HP 295, HP 313",Undergraduate
+HP,412, HP 411 ,Undergraduate
+HP,415," BIOL 220, HLTH 210, HP 340",Undergraduate
+HP,423, HP 411 ,Undergraduate
+HP,425,"HP 313, HP 333",Undergraduate
+HP,426,"HP 202, HP 295, HP 330",Undergraduate
+HP,427,Majors only,Undergraduate
+HP,428,"HP 333, HP 388",Undergraduate
+HP,429,"HP 388, HP 425",Undergraduate
+HP,431,HP 363,Undergraduate
+HP,439,HP 314,Undergraduate
+HP,449,"HP 201, HP 295, HP 388",Undergraduate
+HP,450,"HP 201, HP 295, HP 388",Undergraduate
+HP,456,HP 314,Undergraduate
+HP,459, ACCT 200 or consent of instructor,Undergraduate
+HP,460,"HP 449, HP 450",Undergraduate
+HP,466, HP 414 ,Undergraduate
+HP,467, HP 414,Undergraduate
+HP,470, PSYC 101 or equivalent ,Undergraduate
+HP,471," HP 411, HP 412, HP 445 ",Undergraduate
+HP,480," Consent, HP 343",Undergraduate
+HP,482," HP 340, HP372, HP 451 ",Undergraduate
+HP,483, HP 414 and HP 467 or equivalent ,Undergraduate
+HP,486,"HP 363, HP 466",Undergraduate
+HP,487, HP 414,Undergraduate
+HP,493, HP 411 and HP 445 ,Undergraduate
+HP,496," HP 414, HP 466",Undergraduate
+HUM,450W, HUM 282W,Undergraduate
+HUM,490, Admission to college as Humanities Major ,Undergraduate
+HUM,498," HUM 282W, advanced standing in Humanities and consent of instructor.",Undergraduate
+HUM,499,Approval of faculty.,Undergraduate
+IBUS,398,Permission of the Chairperson of the department; co-op contract; other prerequisites may also apply.,Undergraduate
+IBUS,419, IBUS 380 ,Undergraduate
+IBUS,428,"MRKT 210, IBUS 380",Undergraduate
+IBUS,469, IBUS 380 ,Undergraduate
+IBUS,485, IBUS 380 ,Undergraduate
+IBUS,490," IBUS 428, IBUS 448, IBUS 469 (select 2 out of the 3 courses)",Undergraduate
+IBUS,497, Consent ,Undergraduate
+IBUS,498, Consent ,Undergraduate
+IBUS,499, Consent ,Undergraduate
+KSP,106, International Student ,Undergraduate
+KSP,476, Admission to student teaching. ,Undergraduate
+KSP,477, admission to student teaching. ,Undergraduate
+LAWE,336, LAWE 233 ,Undergraduate
+LAWE,442, Must be accepted into a faculty led study abroad trip. ,Undergraduate
+LAWE,443, Must be registered and approved for a faculty-led study abroad program.,Undergraduate
+MASS,221W,"ENG 101, MASS 110",Undergraduate
+MASS,290,MASS 221W or consent,Undergraduate
+MASS,325W,MASS 221W,Undergraduate
+MASS,330W,MASS 221W,Undergraduate
+MASS,334,MASS 221W,Undergraduate
+MASS,398,MASS 221W. At least 60 credits earned; in good standing; instructor permission; co-op contract; other prerequisites may also apply.,Undergraduate
+MASS,431W,MASS 221W,Undergraduate
+MASS,434W, MASS 233 ,Undergraduate
+MASS,436W,MASS 221W,Undergraduate
+MASS,485, MASS 221W,Undergraduate
+MASS,495,MASS 221W,Undergraduate
+MASS,498,"MASS 221W, MASS 312, and MASS 411, plus two additional 300/400 level MASS courses, one of which must be MASS 325, MASS 330, MASS 334, MASS 431, MASS 434 or MASS 436",Undergraduate
+MASS,499,MASS 221W,Undergraduate
+MATH,110,Three years high school algebra/geometry or MATH 098,Undergraduate
+MATH,112," Satisfy Placement Table in this section, or MATH 098 with grade of P. ",Undergraduate
+MATH,113," Satisfy Placement Table in this section, or MATH 112 with “C” (2.0) or better. ",Undergraduate
+MATH,115,"Satisfy Math Placement Table in this section, or grade of P in MATH 098.",Undergraduate
+MATH,121,"Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with “C” (2.0) or better.",Undergraduate
+MATH,122,MATH 121 with “C” (2.0) or better or consent,Undergraduate
+MATH,127,MATH 121 with “C” (2.0) or better or consent,Undergraduate
+MATH,130,"Satisfy Placement Table in this section, or grade of “C” (2.0) or better in either MATH 112 or MATH 115.",Undergraduate
+MATH,170, MATH 121,Undergraduate
+MATH,180,"MATH 112 or equivalent, with “C” (2.0) or better, or consent",Undergraduate
+MATH,181,"Satisfy Placement Table in this section, or Math 112 with “C” (2.0) or better.",Undergraduate
+MATH,201,"Satisfy Placement Table in this section, or Grade of P in MATH 098 or ""C"" (2.0) or better in MATH 112 or MATH 115.",Undergraduate
+MATH,202,"MATH 201, with “C” (2.0) or better or consent",Undergraduate
+MATH,203,MATH 202 with “C” (2.0) or better or consent,Undergraduate
+MATH,223,"MATH 122 with “C” (2.0) or better, or consent",Undergraduate
+MATH,247,MATH 122 with “C” (2.0) or better or consent,Undergraduate
+MATH,280,MATH 121 with “C” (2.0) or better or consent.,Undergraduate
+MATH,290,MATH 122 with “C” (2.0) or better or consent.,Undergraduate
+MATH,293,Recipient of a MAX scholarship or instructor consent.,Undergraduate
+MATH,316,MATH 223 and MATH 290 with “C” (2.0) or better or consent,Undergraduate
+MATH,321,MATH 122 with “C” (2.0) or better or consent,Undergraduate
+MATH,332,MATH 290 with “C” (2.0) or better or consent,Undergraduate
+MATH,345,MATH 290 with “C” (2.0) or better or consent,Undergraduate
+MATH,354,MATH 122 with “C” (2.0) or better or consent,Undergraduate
+MATH,375,MATH 247 and MATH 290 with grade of “C” (2.0) or higher.,Undergraduate
+MATH,380,MATH 247 and MATH 280 with a grade of “C” (2.0) or better,Undergraduate
+MATH,398, At least 60 credits earned; in good standing; instructor permission; co-op contract; other prerequisites may also apply.,Undergraduate
+MATH,402, MATH 290 with grade of “C” (2.0) or higher. ,Undergraduate
+MATH,411,MATH 223 and MATH 290 with “C” (2.0) or better or consent,Undergraduate
+MATH,417, MATH 223 and MATH 290 with “C” (2.0) or better or consent ,Undergraduate
+MATH,418, MATH 417 with “C” (2.0) or better or consent,Undergraduate
+MATH,422,MATH 223 and MATH 321 with “C” (2.0) or better or consent,Undergraduate
+MATH,425,MATH 223 and MATH 247 with “C” (2.0) or better or consent,Undergraduate
+MATH,428," MATH 122, MATH 247",Undergraduate
+MATH,435,"MATH 247 and MATH 290 with grade of ""C"" (2.0) or higher or consent.",Undergraduate
+MATH,442,MATH 345 with “C” (2.0) or better or consent,Undergraduate
+MATH,446,MATH 345 with “C” (2.0) or better or consent,Undergraduate
+MATH,447,MATH 345 with “C” (2.0) or better or consent,Undergraduate
+MATH,455,MATH 223 with “C” (2.0) or better or consent,Undergraduate
+MATH,456,MATH 455 / STAT 455 with “C” (2.0) or better or consent,Undergraduate
+MATH,460," (MATH 354, STATS 354, MATH 455 or STAT 455) and MATH 223",Undergraduate
+MATH,461,MATH 122 with C (2.0) or better or consent.,Undergraduate
+MATH,470,"MATH 122, MATH 247 with “C” (2.0) or better or consent",Undergraduate
+MATH,471,MATH 470 and MATH 223 with “C” (2.0) or better or consent,Undergraduate
+MATH,475,"Math 345 and Math 375 with a ""C"" (2.0) or better, and senior standing or consent.",Undergraduate
+MATH,480,MATH 345 with “C” (2.0) or better or consent,Undergraduate
+MATH,483,MATH 290 with “C” (2.0) or better or consent,Undergraduate
+MATH,484,MATH 290 with “C” (2.0) or better or consent,Undergraduate
+MATH,485,MATH 290 with “C” (2.0) or better or consent,Undergraduate
+MATH,492," Two of the following: MATH 316, MATH 321, MATH 345, MATH 375 and senior standing (or permission of the instructor). Course can also be taken independent study with permission of a cooperating faculty member. ",Undergraduate
+MATH,492W," Two of the following: MATH 316, MATH 321, MATH 345, MATH 375 and senior standing (or permission of the instructor). Course can also be taken independent study with permission of a cooperating faculty member. ",Undergraduate
+MATH,493,Recipient of a MAX scholarship or instructor consent,Undergraduate
+ME,101,ACT Math Subscore of 23 or higher.,Undergraduate
+ME,201, ME 101 ,Undergraduate
+ME,203," ME 103, ME 201 ",Undergraduate
+ME,212,PHYS 221,Undergraduate
+ME,214, ME 212 ,Undergraduate
+ME,223, ME 212 ,Undergraduate
+ME,240,ME 103 or instructor permission or instructor permission.,Undergraduate
+ME,241, PHYS 221 ,Undergraduate
+ME,291,"ME 212. Select one course from CIVE 201, EE 107, or ME 201 with ""C"" (2.0) or better).",Undergraduate
+ME,293, Recipient of a MAX scholarship or instructor consent.,Undergraduate
+ME,299, PHYS 221 with “C-” (1.67) or better ,Undergraduate
+ME,306,ME 223,Undergraduate
+ME,321,"MATH 223, ME 214",Undergraduate
+ME,324," ME 241, ME 321 ",Undergraduate
+ME,329,"CHEM 191, ME 241",Undergraduate
+ME,333," ME 206, ME 223 ",Undergraduate
+ME,341,"ME 214, PHYS 222, EE 230, MATH 321",Undergraduate
+ME,398, ME 201. At least 60 credits earned; in good standing; instructor permission; co-op contract; other Prerequisites may also apply.,Undergraduate
+ME,415, ME 223 ,Undergraduate
+ME,416," ME 324, ME 329 ",Undergraduate
+ME,417," ME 214, ME 223 ",Undergraduate
+ME,418, ME 417 ,Undergraduate
+ME,420,"ME 203, ME 324, ME 417",Undergraduate
+ME,422, ME 223,Undergraduate
+ME,424, ME 324 ,Undergraduate
+ME,428," ME 324, ME 329, ME 333, ME 336, ME 341, ME 417 ",Undergraduate
+ME,429," ME 324, ME 329 ",Undergraduate
+ME,431,Instructor Permission,Undergraduate
+ME,432,"ME 321, ME 324, ME 329 or instructor permission.",Undergraduate
+ME,436W," ME 291, ME 324, ME 329",Undergraduate
+ME,438W, ME 428 ,Undergraduate
+ME,439,"ME 324, ME 329",Undergraduate
+ME,447, ME 417,Undergraduate
+ME,450, ME 223 and ME 324 or instructor consent ,Undergraduate
+ME,463, ME 341 ,Undergraduate
+ME,464," ME 417, ME 463 ",Undergraduate
+ME,466, ME 463 ,Undergraduate
+ME,466W, ME 463 ,Undergraduate
+ME,492, Senior standing in Mechanical Engineering ,Undergraduate
+ME,493, Recipient of a MAX scholarship or instructor consent.,Undergraduate
+MET,275, CHEM 104 and MET 142 ,Undergraduate
+MET,323, PHYS 211 and MATH 121,Undergraduate
+MET,324, MET 323,Undergraduate
+MET,341, MET 142,Undergraduate
+MET,347," EET 113, MET 275, MET 341",Undergraduate
+MET,375,MET 275,Undergraduate
+MET,386," MATH 121, MET 341, STAT 154. Admission to AET/MET major.",Undergraduate
+MET,398, MET 104. At least 60 credits earned; in good standing; instructor permission; co-op contract; other prerequisites may also apply.,Undergraduate
+MET,423,STAT 154,Undergraduate
+MET,425,STAT 154,Undergraduate
+MET,427,STAT 154,Undergraduate
+MET,448,"MET 347, PHYS 212",Undergraduate
+MET,465, MET 375,Undergraduate
+MET,488W," ENG 271W, MET 275, MET 425, 10 AET or MET 300/400 level credits",Undergraduate
+MET,489W," MET 488W, Permission Required",Undergraduate
+MET,497,50% of major,Undergraduate
+MET,499, Permission Required,Undergraduate
+MGMT,300,ISYS 101 or CIS 101,Undergraduate
+MGMT,346, ECON 207 ,Undergraduate
+MGMT,398,Permission of the Chairperson of the department; co-op contract; other prerequisites may also apply.,Undergraduate
+MGMT,441, MGMT 340 ,Undergraduate
+MGMT,442, MGMT 340 ,Undergraduate
+MGMT,445, MGMT 340 ,Undergraduate
+MGMT,447,MGMT 230,Undergraduate
+MGMT,449, ECON 207 or equivalent ,Undergraduate
+MGMT,459,"MGMT 230, MGMT 300",Undergraduate
+MGMT,473,MGMT 300,Undergraduate
+MGMT,481,"FINA 362, MRKT 210, MGMT 230, MGMT 346",Undergraduate
+MGMT,486,MGMT 340,Undergraduate
+MRKT,312,MRKT 210,Undergraduate
+MRKT,317,MRKT 210,Undergraduate
+MRKT,318,MRKT 210,Undergraduate
+MRKT,324,"ECON 207, MRKT 210",Undergraduate
+MRKT,341,MRKT 210,Undergraduate
+MRKT,398,Permission of the Chairperson of the department; co-op contract; other prerequisites may also apply.,Undergraduate
+MRKT,413,MRKT 210,Undergraduate
+MRKT,415,MRKT 210,Undergraduate
+MRKT,416,MRKT 210,Undergraduate
+MRKT,420,MRKT 210,Undergraduate
+MRKT,428,"IBUS 380, MRKT 210",Undergraduate
+MRKT,480,MRKT 210,Undergraduate
+MRKT,490,"MRKT 316, MRKT 317, and MRKT 318. MRKT 210 or MRKT 310. MRKT 339 or MRKT 341",Undergraduate
+MRKT,497,MRKT 210,Undergraduate
+MRKT,498,MRKT 210,Undergraduate
+MRKT,499, Consent ,Undergraduate
+MSL,277, Limited to Cadets enrolled in Army ROTC,Undergraduate
+MSL,302, MSL 301 ,Undergraduate
+MSL,366, Limited to Cadets contracted with the US Army. ,Undergraduate
+MSL,401," MSL 301, MSL 302",Undergraduate
+MSL,402," MSL 301, MSL 302",Undergraduate
+MSL,403, MSL 210,Undergraduate
+MUSC,112, MUS 131 ,Undergraduate
+MUSC,219,MUSC 119,Undergraduate
+MUSC,301W," ENG 101, MUS 131 ",Undergraduate
+MUSC,302W," ENG 101, MUS 131",Undergraduate
+MUSC,303,"MUS 231, MUS 232, ENG 101",Undergraduate
+MUSC,304,"MUS 231, MUS 232, ENG 101",Undergraduate
+MUSC,309W, ENG 101,Undergraduate
+MUSC,412, Consent ,Undergraduate
+MUSC,426, MUS 298,Undergraduate
+MUSC,431," MUSC 111, MUSC 112",Undergraduate
+MUSP,151,Permission of Instructor,Undergraduate
+MUSP,155,Permission of instructor,Undergraduate
+MUSP,156,Permission of instructor,Undergraduate
+MUSP,157,Permission of instructor,Undergraduate
+MUSP,161,Permission of instructor,Undergraduate
+MUSP,162,Permission of instructor,Undergraduate
+MUSP,163,Permission of instructor,Undergraduate
+MUSP,164,Permission of instructor,Undergraduate
+MUSP,165,Permission of instructor,Undergraduate
+MUSP,171,Permission of Instructor,Undergraduate
+MUSP,172,Permission of Instructor,Undergraduate
+MUSP,173,Permission of Instructor,Undergraduate
+MUSP,174,Permission of Instructor,Undergraduate
+MUSP,176,Permission of Instructor,Undergraduate
+MUSP,178,Permission of Instructor,Undergraduate
+MUSP,179,Permission of Instructor,Undergraduate
+MUSP,181,Permission of instructor,Undergraduate
+MUSP,182,Permission of instructor,Undergraduate
+MUSP,183,Permission of instructor,Undergraduate
+MUSP,184,Permission of instructor,Undergraduate
+MUSP,185,Permission of instructor,Undergraduate
+MUSP,186,Permission of instructor,Undergraduate
+MUSP,191,Permission of Instructor,Undergraduate
+MUSP,255,Permission of Instructor,Undergraduate
+MUSP,256,Permission of instructor,Undergraduate
+MUSP,257,Permission of Instructor,Undergraduate
+MUSP,262,Permission of Instructor,Undergraduate
+MUSP,263,Permission of Instructor,Undergraduate
+MUSP,264,Permission of Instructor,Undergraduate
+MUSP,265,Permission of Instructor,Undergraduate
+MUSP,272,Permission of instructor,Undergraduate
+MUSP,273,Permission of instructor,Undergraduate
+MUSP,274,Permission of instructor,Undergraduate
+MUSP,276,Permission of Instructor,Undergraduate
+MUSP,278,Permission of instructor,Undergraduate
+MUSP,279,Permission of Instructor,Undergraduate
+MUSP,282,Permission of instructor,Undergraduate
+MUSP,283,Permission of instructor,Undergraduate
+MUSP,284,Permission of instructor,Undergraduate
+MUSP,285,Permission of instructor,Undergraduate
+MUSP,286,Permission of instructor,Undergraduate
+MUSP,291,Permission of instructor,Undergraduate
+MUSP,299,Permission of instructor,Undergraduate
+MUSP,301, MUS 299,Undergraduate
+MUSP,302, MUS 299. Permission,Undergraduate
+MUSP,316,Permission of instructor,Undergraduate
+MUSP,317,Permission of instructor,Undergraduate
+MUSP,351,Permission of Instructor,Undergraduate
+MUSP,355,Permission of Instructor required. ,Undergraduate
+MUSP,356,Permission of Instructor required. ,Undergraduate
+MUSP,357,Permission of Instructor required. ,Undergraduate
+MUSP,361,Permission of Instructor,Undergraduate
+MUSP,362,Permission of Instructor,Undergraduate
+MUSP,363,Permission of Instructor,Undergraduate
+MUSP,364,Permission of Instructor,Undergraduate
+MUSP,365,Permission of Instructor,Undergraduate
+MUSP,371,Permission of instructor,Undergraduate
+MUSP,372,Permission of instructor,Undergraduate
+MUSP,373,Permission of instructor,Undergraduate
+MUSP,374,Permission of instructor,Undergraduate
+MUSP,376,Permission of instructor,Undergraduate
+MUSP,378,Permission of instructor,Undergraduate
+MUSP,379,Permission of instructor,Undergraduate
+MUSP,381," Upper Level Jury, and consent, permission of instructor.",Undergraduate
+MUSP,382,Permission of Instructor. ,Undergraduate
+MUSP,383,Permission of Instructor. ,Undergraduate
+MUSP,384,Permission of Instructor. ,Undergraduate
+MUSP,385,Permission of Instructor. ,Undergraduate
+MUSP,386,Permission of Instructor. ,Undergraduate
+MUSP,391,Permission of Instructor required. ,Undergraduate
+MUSP,401,Permission of Instructor. ,Undergraduate
+MUSP,403,Permission of Instructor. ,Undergraduate
+MUSP,414,Permission of instructor,Undergraduate
+MUSP,421,Permission of instructor,Undergraduate
+MUSP,423,Permission of instructor,Undergraduate
+MUSP,425,Permission of instructor,Undergraduate
+MUSP,426,Permission of instructor,Undergraduate
+MUSP,433,Permission of instructor,Undergraduate
+MUSP,435,Permission of instructor,Undergraduate
+MUSP,439,Permission of instructor,Undergraduate
+MUSP,451,Permission of instructor,Undergraduate
+MUSP,455,Permission of instructor,Undergraduate
+MUSP,456,Permission of instructor,Undergraduate
+MUSP,457,Permission of instructor,Undergraduate
+MUSP,458,Permission of instructor,Undergraduate
+MUSP,461,Permission of instructor,Undergraduate
+MUSP,462,Permission of instructor,Undergraduate
+MUSP,463,Permission of instructor,Undergraduate
+MUSP,464,Permission of instructor,Undergraduate
+MUSP,465,Permission of instructor,Undergraduate
+MUSP,471,Permission of instructor,Undergraduate
+MUSP,472,Permission of instructor,Undergraduate
+MUSP,473,Permission of instructor,Undergraduate
+MUSP,474,Permission of instructor,Undergraduate
+MUSP,476,Permission of instructor,Undergraduate
+MUSP,478,Permission of instructor,Undergraduate
+MUSP,479,Permission of instructor,Undergraduate
+MUSP,481,Permission of instructor,Undergraduate
+MUSP,482,Permission of instructor,Undergraduate
+MUSP,483,Permission of instructor,Undergraduate
+MUSP,484,Permission of instructor,Undergraduate
+MUSP,485,Permission of instructor,Undergraduate
+MUSP,486,Permission of instructor,Undergraduate
+MUSP,491,Permission of instructor,Undergraduate
+MUSP,493,Permission of Instructor,Undergraduate
+NPL,473,NPL 273,Undergraduate
+NURS,282,Minimum of a C in BIOL 220 and BIOL 330.,Undergraduate
+NURS,284,Minimum of a C in BIOL 220 and BIOL 330.,Undergraduate
+NURS,320W,Prerequisites: RN licensure. Admission to the RN Baccalaureate Completion program.,Undergraduate
+NURS,362,Prerequisites: RN licensure. Admission to the RN Baccalaureate Completion program.,Undergraduate
+NURS,364," NURS 333, NURS 334, NURS 335, NURS 336",Undergraduate
+NURS,365," NURS 333, NURS 334, NURS 335, NURS 336",Undergraduate
+NURS,382,RN Licensure. Admission to the RN Baccalaureate Completion Program.,Undergraduate
+NURS,420, NURS 320,Undergraduate
+NURS,428, As appropriate for each section. ,Undergraduate
+NURS,433," NURS 363, NURS 364, NURS 365, NURS 366",Undergraduate
+NURS,434,"NURS 363, NURS 364, NURS 365, NURS 366",Undergraduate
+NURS,435," NURS 363, NURS 364, NURS 365, NURS 366",Undergraduate
+NURS,436," NURS 363, NURS 364, NURS 365, NURS 366, PSYC 101",Undergraduate
+NURS,444,NURS 286,Undergraduate
+NURS,445,NURS 286,Undergraduate
+NURS,463," NURS 433, NURS 434, NURS 435, NURS 436",Undergraduate
+NURS,464," NURS 433, NURS 434, NURS 435, NURS 436",Undergraduate
+NURS,465," NURS 433, NURS 434, NURS 435, NURS 436",Undergraduate
+NURS,466," NURS 433, NURS 434, NURS 435, NURS 436, NURS 463, NURS 464, NURS 465",Undergraduate
+NURS,482W,"NURS 320, NURS 382. RN Licensure. Admission to the RN Baccalaureate Completion program.",Undergraduate
+NURS,492,"RN Licensure; NURS 320, NURS 362, NURS 382. RN Licensure.  Admission to the RN Baccalaureate Completion program.",Undergraduate
+PHIL,322W,"Select one course: PHIL 120W, PHIL 222W, PHIL 224W, or PHIL 226W",Undergraduate
+PHIL,496, PHIL 495,Undergraduate
+PHYS,211,"Either MATH 112 and MATH 113, or MATH 115",Undergraduate
+PHYS,212, PHYS 211 ,Undergraduate
+PHYS,222,MATH 121 with a “C” or better; PHYS 221 with a “C” or better.,Undergraduate
+PHYS,223,MATH 121 with a “C” or better; and PHYS 221 with a “C” or better,Undergraduate
+PHYS,232, PHYS 221 with a “C” or better; and PHYS 222 or concurrent.,Undergraduate
+PHYS,233, PHYS 221 with a “C” or better; and PHYS 223 or concurrent.,Undergraduate
+PHYS,335, MATH 122; (PHYS 222 and concurrently with PHYS 223) or PHYS 212. ,Undergraduate
+PHYS,336, PHYS 335 ,Undergraduate
+PHYS,381, Consent ,Undergraduate
+PHYS,417," MATH 121, PHYS 212 or PHYS 222 ",Undergraduate
+PHYS,441, PHYS 222 or PHYS 223; and MATH 321 or consent. ,Undergraduate
+PHYS,447, MATH 223 and MATH 321 and PHYS 222 ,Undergraduate
+PHYS,448, PHYS 223 and PHYS 447 ,Undergraduate
+PHYS,453, PHYS 335 ,Undergraduate
+PHYS,457, MATH 122 and PHYS 223,Undergraduate
+PHYS,461," PHYS 335, PHYS 441, MATH 247, MATH 321 ",Undergraduate
+PHYS,465,"CIS 121, MATH 122. Select one PHYS 222 or PHYS 223",Undergraduate
+PHYS,473, MATH 321 and PHYS 223 ,Undergraduate
+PHYS,475, PHYS 336 or consent ,Undergraduate
+PHYS,475W, PHYS 336 or consent,Undergraduate
+PHYS,482," one year of chemistry and one year of physics, or consent ",Undergraduate
+PHYS,492, Completed at least two upper division physics courses. ,Undergraduate
+PHYS,493, Consent ,Undergraduate
+PHYS,495, PHYS 335 and PHYS 336 ,Undergraduate
+PHYS,497, Usually Sr. standing ,Undergraduate
+PHYS,499, Consent ,Undergraduate
+POL,430, POL 231,Undergraduate
+POL,431, POL 231,Undergraduate
+POL,433, POL 231,Undergraduate
+POL,434, POL 231,Undergraduate
+POL,435, POL 241,Undergraduate
+POL,436, POL 231,Undergraduate
+POL,437, POL 231,Undergraduate
+POL,439, POL 241,Undergraduate
+POL,440, POL 241,Undergraduate
+POL,441, POL 241,Undergraduate
+POL,442, POL 241,Undergraduate
+POL,443,POL 241,Undergraduate
+POL,444, POL 241,Undergraduate
+POL,445, POL 241,Undergraduate
+POL,446, POL 241,Undergraduate
+POL,447, POL 241,Undergraduate
+POL,448, POL 241,Undergraduate
+PSYC,201,"Complete one course: MATH 112, MATH 113, MATH 115, MATH 121, MATH 130, or STAT 154",Undergraduate
+PSYC,211W, Must have a minimum total cumulative GPA of 2.70 or instructor permission to enroll; PSYC 201,Undergraduate
+PSYC,291, PSYC 101 ,Undergraduate
+PSYC,321, PSYC 201,Undergraduate
+PSYC,325," either Psy 101 OR Psy 206, not both",Undergraduate
+PSYC,340, PSYC 101 ,Undergraduate
+PSYC,343, PSYC 101 ,Undergraduate
+PSYC,398, PSYC 101. At least 60 credits earned; in good standing; instructor permission; co-op contract; other prerequisites may also apply.,Undergraduate
+PSYC,410,"PSYC 201, PSYC 211W",Undergraduate
+PSYC,413, PSYC 201,Undergraduate
+PSYC,414, PSYC 101,Undergraduate
+PSYC,415, PSYC 211W,Undergraduate
+PSYC,417," PSYC 325, PSYC 414, PSYC 415 (ONE course from that list, not all 3)",Undergraduate
+PSYC,419, PSYC 211W ,Undergraduate
+PSYC,420, PSYC 211W ,Undergraduate
+PSYC,421,"PSYC 201, PSYC 211W",Undergraduate
+PSYC,423," PSYC 211W, PSYC321",Undergraduate
+PSYC,430," PSYC 211W, PSYC 321",Undergraduate
+PSYC,432," Psyc 433, Psyc 436, Psyc 343, Psyc 466: One course from this list, not all 4",Undergraduate
+PSYC,433, PSYC 101 ,Undergraduate
+PSYC,442, PSYC 101 ,Undergraduate
+PSYC,443," PSYC 211W, PSYC 340 or PSYC 358 ",Undergraduate
+PSYC,445," PSYC 340, PSYC 358, PSYC 455, PSYC 460W (ONE course from list, not all 4)",Undergraduate
+PSYC,450," PSYC 211W, PSYC 325",Undergraduate
+PSYC,455,PSYC 101,Undergraduate
+PSYC,460W, PSYC 101 ,Undergraduate
+PSYC,461, 8 PSYC credits ,Undergraduate
+PSYC,466,PSYC 101,Undergraduate
+PSYC,476, PSYC 211W ,Undergraduate
+PSYC,478, Three courses in PSYC ,Undergraduate
+PSYC,485, PSYC 101 ,Undergraduate
+PSYC,497, 9 credits of PSYC ,Undergraduate
+RPLS,325,"RPLS 272, RPLS 277 or with instructor permission.",Undergraduate
+RPLS,341W,"RPLS 272, RPLS 376, or with instructor permission. Upper division prerequisites can be taken concurrently with instructor permission.",Undergraduate
+RPLS,350,RPLS 272. RPLS 282. or with instructor permission.,Undergraduate
+RPLS,373,RPLS 272  or with instructor permission.,Undergraduate
+RPLS,375,RPLS 272  or with instructor permission.,Undergraduate
+RPLS,376,"RPLS 272, RPLS 277,  or with instructor permission.",Undergraduate
+RPLS,378,"RPLS 272, RPLS 277, RPLS 282 or with instructor permission.",Undergraduate
+RPLS,398, At least 60 credits earned; in good standing; instructor permission; co-op contract; other prerequisites may also apply.,Undergraduate
+RPLS,440,"RPLS 272, RPLS 274 or with instructor permission.",Undergraduate
+RPLS,445,"RPLS 272, RPLS 274, or with instructor permission.",Undergraduate
+RPLS,447W,"RPLS 272, RPLS 274, or with instructor permission.",Undergraduate
+RPLS,450,"RPLS 272, RPLS 274, or with instructor permission.",Undergraduate
+RPLS,465,"RPLS 272, RPLS 373, or with instructor permission. Upper division prerequisites can be taken concurrently with instructor permission.",Undergraduate
+RPLS,473,"RPLS 272, RPLS 373, or with instructor permission. Upper division prerequisites can be taken concurrently with instructor permission.",Undergraduate
+RPLS,475,"RPLS 272, RPLS 282, or with instructor permission.",Undergraduate
+RPLS,478,"RPLS 272, RPLS 282, or with instructor permission.",Undergraduate
+RPLS,479,"RPLS 272, RPLS 282, or with instructor permission.",Undergraduate
+RPLS,481,"RPLS 272 RPLS 282 RPLS 341W, or with instructor permission. Upper division prerequisites can be taken concurrently with instructor permission.",Undergraduate
+RPLS,483,"RPLS 272, RPLS 376, or with instructor permission. Upper division prerequisites can be taken concurrently with instructor permission.",Undergraduate
+RPLS,489,"RPLS 272, RPLS 274, or with instructor permission.",Undergraduate
+RPLS,493,"RPLS 272, RPLS 274, RPLS 277, RPLS 282, RPLS 341W, or with instructor permission. Upper division prerequisites can be taken concurrently with instructor permission.",Undergraduate
+RPLS,495,All required RPLS courses completed with a 'C' or better.,Undergraduate
+SCAN,102, SCAN 101 ,Undergraduate
+SCAN,112, SCAN 111 ,Undergraduate
+SCAN,292, SCAN 102 or equivalent. ,Undergraduate
+SCAN,293, SCAN 102 or equivalent,Undergraduate
+SCAN,294, SCAN 112 or equivalent ,Undergraduate
+SCAN,295, SCAN 112 or equivalent ,Undergraduate
+SCAN,490, Admission to college as Scandinavian Studies Major. ,Undergraduate
+SCAN,499, SCAN 299 or SCAN 299 ,Undergraduate
+SOC,200,SOC 101 or SOC 150,Undergraduate
+SOC,404, SOC 101 ,Undergraduate
+SOC,446, SOC 101 ,Undergraduate
+SOC,451,CJ 101,Undergraduate
+SOC,458,SOC 101 or SOC 150 or by instructor permission.,Undergraduate
+SOC,463,SOC 101 or SOC 150 or by instructor approval.,Undergraduate
+SOC,479,SOC 301W or similar science research course with instructor permission.,Undergraduate
+SOC,480,SOC 301W or similar science research course with instructor permission.,Undergraduate
+SOC,493, SOC 301W or equivalent; Senior Standing. ,Undergraduate
+SOC,495W," SOC 200, SOC 301W and SOC 458",Undergraduate
+SOC,497, Consent ,Undergraduate
+SOC,499, Consent ,Undergraduate
+SOST,450, Concurrently with KSP 440,Undergraduate
+SOWK,310,SOWK 212 AND  SOWK 215 OR SOWK 215W,Undergraduate
+SOWK,310W,SOWK 212 AND  SOWK 215 OR SOWK 215W,Undergraduate
+SOWK,315,SOWK 212. Select one course from SOWK 215 or SOWK 215W,Undergraduate
+SOWK,316,"SOWK 212, SOWK 215",Undergraduate
+SOWK,410,"SOWK 212, SOWK 310. Select one course from SOWK 215 or SOWK 215W.",Undergraduate
+SOWK,435,"Select one course from STAT 154, PSYC 201, SPC 202, ECON 207, HLTH 475. Or other statistics course as approved by BSSW Program Advisor.",Undergraduate
+SOWK,441,Admission to the BSSW Program/major. Permission to register given by BSSW Program.,Undergraduate
+SOWK,443,SOWK 441. Permission to register given by BSSW Program.,Undergraduate
+SOWK,446,SOWK 441. Permission to register given by BSSW Program.,Undergraduate
+SOWK,450," SOWK Foundation, Practice Sequence, and permission",Undergraduate
+SOWK,455," SOWK Foundation, Practice Sequence, and permission",Undergraduate
+SPAN,102, SPAN 101 or equivalent ,Undergraduate
+SPAN,201, one year university level Spanish or equivalent ,Undergraduate
+SPAN,202, one year university level Spanish or equivalent ,Undergraduate
+SPAN,293, One year university level Spanish or equivalent ,Undergraduate
+SPAN,294, One year university level Spanish or equivalent ,Undergraduate
+SPAN,301, Two years of university level Spanish or equivalent ,Undergraduate
+SPAN,350,Two years of university-level Spanish or proof of equivalent proficiency.,Undergraduate
+SPAN,355, Two years university level Spanish or equivalent ,Undergraduate
+SPAN,356, Two years university level Spanish or equivalent ,Undergraduate
+SPAN,365, Two years university level Spanish or equivalent ,Undergraduate
+SPAN,393, Two years university level Spanish or equivalent ,Undergraduate
+SPAN,394, Two years university level Spanish or equivalent ,Undergraduate
+SPAN,396," SPAN 201, SPAN 202",Undergraduate
+SPAN,401, Completion of 4 credits of 300 level or equivalent ,Undergraduate
+SPAN,402, Completion of 4 credits of 300 level or equivalent ,Undergraduate
+SPAN,403W, Completion of 4 credits of 300 level or equivalent ,Undergraduate
+SPAN,405,Completion of 4 credits of 300 -level or equivalent proficiency level.,Undergraduate
+SPAN,492," Completion of eight 300-level credits, or equivalent ",Undergraduate
+SPAN,493, Two years university level Spanish ,Undergraduate
+SPAN,494, Two years university level Spanish ,Undergraduate
+SPAN,495, Two years university level Spanish ,Undergraduate
+SPAN,496, Two years university level Spanish ,Undergraduate
+SPAN,499," completion of eight 300-level credits, or equivalent ",Undergraduate
+STAT,154," Satisfy Placement Table in this section, or MATH 098 with grade of P. ",Undergraduate
+STAT,221, MATH 112 with grade of “C” (2.0) or better ,Undergraduate
+STAT,354, MATH 122 with C or better or consent ,Undergraduate
+STAT,356, STAT 154 or instructor’s approval,Undergraduate
+STAT,398, At least 60 credits earned; in good standing; instructor permission; co-op contract; other prerequisites may also apply.,Undergraduate
+STAT,450, MATH 354 / STAT 354 or STAT 455 with “C” (2.0) or better or consent ,Undergraduate
+STAT,451, MATH 354 / STAT 354 or STAT 455 with “C” (2.0) or better or consent ,Undergraduate
+STAT,455, MATH 223 with “C” (2.0) or better or consent,Undergraduate
+STAT,456," MATH 455, STAT 455 with “C” (2.0) or better or consent",Undergraduate
+STAT,457,"Either MATH/STAT 354 or both MATH 121 adn STAT 154 with ""C"" (2.0) or better, or consent.",Undergraduate
+STAT,458,"Either MATH/STAT 354 or both MATH 121 and STAT 154 with “C” (2.0) or better, or consent.",Undergraduate
+STAT,459,"Either MATH/STAT 354 or both STAT 154 and MATH 121 with “C” (2.0) or better, or consent.",Undergraduate
+STAT,492,"STAT 457, STAT 458, STAT 459, STAT 450 (at least two of these)",Undergraduate
+THEA,102, Consent ,Undergraduate
+THEA,103, Consent ,Undergraduate
+THEA,104, Consent,Undergraduate
+THEA,105, Consent ,Undergraduate
+THEA,107, Consent ,Undergraduate
+THEA,108, Consent ,Undergraduate
+THEA,109, Consent ,Undergraduate
+THEA,110, Consent ,Undergraduate
+THEA,111,Consent,Undergraduate
+THEA,121, Consent ,Undergraduate
+THEA,210, THEA 110 or consent ,Undergraduate
+THEA,213, THEA 212,Undergraduate
+THEA,214, Permission of Instructor ,Undergraduate
+THEA,215, THEA 110 or consent ,Undergraduate
+THEA,235, THEA 100 and THEA 101 or THEA 110 ,Undergraduate
+THEA,240, THEA 100 ,Undergraduate
+THEA,245, Consent ,Undergraduate
+THEA,252, THEA 100 ,Undergraduate
+THEA,255, THEA 100 ,Undergraduate
+THEA,260, THEA 100 ,Undergraduate
+THEA,265, Consent ,Undergraduate
+THEA,270, THEA 100 ,Undergraduate
+THEA,275, THEA 100 ,Undergraduate
+THEA,295, Consent ,Undergraduate
+THEA,300, Consent ,Undergraduate
+THEA,301, Consent ,Undergraduate
+THEA,302, Consent ,Undergraduate
+THEA,303, Consent ,Undergraduate
+THEA,304, Consent ,Undergraduate
+THEA,305, Consent ,Undergraduate
+THEA,306, Consent ,Undergraduate
+THEA,307, Consent ,Undergraduate
+THEA,308, Consent ,Undergraduate
+THEA,309, Consent ,Undergraduate
+THEA,311, THEA 111 ,Undergraduate
+THEA,315, THEA 100 ,Undergraduate
+THEA,335,THEA 235,Undergraduate
+THEA,381W, THEA 100 ,Undergraduate
+THEA,400, Consent ,Undergraduate
+THEA,410, THEA 210 or consent ,Undergraduate
+THEA,411, THEA 210 and consent ,Undergraduate
+THEA,412, THEA 210 or consent ,Undergraduate
+THEA,414, THEA 413 ,Undergraduate
+THEA,415, THEA 413 ,Undergraduate
+THEA,416, THEA 210 or consent ,Undergraduate
+THEA,417, THEA 210 or consent ,Undergraduate
+THEA,417W, THEA 210 or consent ,Undergraduate
+THEA,418, THEA 210 or consent ,Undergraduate
+THEA,419, THEA 210 and consent ,Undergraduate
+THEA,426, Consent ,Undergraduate
+THEA,430, THEA 235 ,Undergraduate
+THEA,432, Consent,Undergraduate
+THEA,433, Consent,Undergraduate
+THEA,434, Consent,Undergraduate
+THEA,435, THEA 235 and consent ,Undergraduate
+THEA,440, THEA 240 or consent ,Undergraduate
+THEA,441, THEA 440 ,Undergraduate
+THEA,444, Consent ,Undergraduate
+THEA,445, THEA 252 or consent ,Undergraduate
+THEA,448, THEA 240,Undergraduate
+THEA,451, Consent ,Undergraduate
+THEA,455, THEA 255 ,Undergraduate
+THEA,456, THEA 455,Undergraduate
+THEA,460, THEA 240 or consent ,Undergraduate
+THEA,461, THEA 460 ,Undergraduate
+THEA,464, Consent ,Undergraduate
+THEA,465, THEA 265 ,Undergraduate
+THEA,470, THEA 270 ,Undergraduate
+THEA,471, THEA 470 ,Undergraduate
+THEA,472, THEA 470. Permission of Instructor,Undergraduate
+THEA,474, THEA 275,Undergraduate
+THEA,475, consent ,Undergraduate
+THEA,476, THEA 475 ,Undergraduate
+THEA,481, THEA 100 ,Undergraduate
+THEA,482, THEA 100 ,Undergraduate
+THEA,483, THEA 100 and consent ,Undergraduate
+THEA,485W, THEA 100 and consent,Undergraduate
+THEA,487W, THEA 100. Permission of instructor.,Undergraduate
+THEA,490, THEA 100. Permission of Instructor,Undergraduate
+THEA,497, Consent ,Undergraduate
+THEA,499, Consent ,Undergraduate
+URBS,485, Consent ,Undergraduate
+URBS,497, Consent ,Undergraduate
+URBS,499, Consent ,Undergraduate
+WLC,310, SPAN 201W. Completion of one 300 level Spanish course or equivalent intermediate-midproficiency level of Spanish for admission to the course. See department for language proficiency evaluation information or instructor permission.,Undergraduate
+WLC,460, Students must demonstrate sufficient language competence in the target language so as to be able to teach courses exclusively in the target language. See content faculty for evaluation. ,Undergraduate
+WLC,462, Students must demonstrate sufficient language competence in the target language so as to be able to teach courses exclusively in the target language. See content faculty for evaluation. ,Undergraduate
+AT,606,Acceptance into the M.S. in Athletic Training degree program,Graduate
+AT,607,Acceptance into the M.S. in Athletic Training degree program.,Graduate
+AT,680,Acceptance into the M.S. in Athletic Training degree program,Graduate
+CIS,518,"CIS 223, CIS 340",Graduate
+CIS,630,CIS 518,Graduate
+CIS,631,CIS 518,Graduate
+CIS,690,CIS 518,Graduate
+CMST,650,CMST 611 or 612,Graduate
+CSP,666,CSP 645,Graduate
+CSP,678,"CSP 618 Introduction to Mental Health Counseling. CSP 645 Counseling Procedures and Skills I, CSP 665 Counseling Theories, CSP 666, Counseling Procedures and Skills II, CSP 673 Group Counseling",Graduate
+CSP,794,"Doctoral candidacy. Successful completion of core counseling courses, core research courses, successful completion of comprehensive exam and approval of doctoral advisor.",Graduate
+EDLD,735,EDLD 734 Professional Development Colloquium I,Graduate
+EE,583,EE 333,Graduate
+GEOG,581,GEOG 373 and GEOG 673,Graduate
+HLTH,508,HLTH 225,Graduate
+MACC,680,MACC 615,Graduate
+MATH,502,MATH 290,Graduate
+MATH,511,MATH 223 and MATH 290 with “C” (2.0) or better or consent.,Graduate
+MATH,517,MATH 223 and MATH 290 with “C” (2.0) or better or consent.,Graduate
+MATH,518,(MATH 417 or MATH 517) with “C” (2.0) or better or consent.,Graduate
+MATH,522,MATH 223 and MATH 321 with “C” (2.0) or better or consent.,Graduate
+MATH,525,MATH 223 and MATH 247 with “C” (2.0) or better or consent.,Graduate
+MATH,528,MATH 122 and MATH 247,Graduate
+MATH,535,"MATH 257 and MATH 290 with a grade of ""C"" (2.0) or higher, or consent.",Graduate
+MATH,542,MATH 345 with “C” (2.0) or better or consent.,Graduate
+MATH,546,MATH 345 with “C” (2.0) or better or consent.,Graduate
+MATH,547,MATH 345 with “C” (2.0) or better or consent.,Graduate
+MATH,555,MATH 223 with “C” (2.0) or better or consent.,Graduate
+MATH,556,(MATH 455 or MATH 555) or (STAT 455 or STAT 555) with “C” (2.0) or better or consent.,Graduate
+MATH,560,(MATH/STAT 354 and MATH 223) or MATH/STAT 455 or MATH/STAT 555,Graduate
+MATH,561,MATH 223,Graduate
+MATH,570,MATH 122 and MATH 247 with “C” (2.0) or better or consent.,Graduate
+MATH,571,(MATH 470 or MATH 570) and MATH 223 with “C” (2.0) or better or consent.,Graduate
+MATH,575,Math 375 and Math 345 with grade of C (2.0) or better in both courses.,Graduate
+MATH,580,MATH 345 with “C” (2.0) or better or consent.,Graduate
+MATH,583,MATH 290 with “C” (2.0) or better or consent.,Graduate
+MATH,584,MATH 290 with “C” (2.0) or better or consent.,Graduate
+MATH,605,(MATH 417 or MATH 517) and Math 375 and (MATH 447 or MATH 547) or consent.,Graduate
+MATH,606,MATH 375 and (MATH 447 or MATH 547) or consent.,Graduate
+MATH,611,MATH 417 or MATH 517 or consent.,Graduate
+MATH,613,(MATH 417 or MATH 517) or consent.,Graduate
+MATH,618,(MATH 417 or MATH 517) and (MATH 447 or MATH 547) or consent.,Graduate
+MATH,620,MATH 321 and (MATH 417 or MATH 517) and (MATH 447 or MATH 547) or consent.,Graduate
+MATH,621,(MATH 417 or MATH 517) and (MATH 422 or MATH 522) and (MATH 447 or MATH 547) or consent.,Graduate
+MATH,625,(MATH 417 or MATH 517) or consent.,Graduate
+MATH,628,MATH 517 and MATH 547,Graduate
+MATH,635,Consent,Graduate
+MATH,641,MATH 345 or consent.,Graduate
+MATH,645,MATH 641 or consent.,Graduate
+MATH,662,MATH 345 or consent.,Graduate
+MATH,663,MATH 332 or consent.,Graduate
+MATH,672,MATH 321 and (MATH 470 or MATH 570) or consent.,Graduate
+MATH,674,(MATH 447 or MATH 547) and (MATH 470 or MATH 570) or consent.,Graduate
+MATH,677,Consent,Graduate
+MATH,689,Consent,Graduate
+MATH,690,(STAT 450 or STAT 550) or (STAT 451 or STAT 551) or consent.,Graduate
+MATH,692,MATH 417 or MATH 517 or consent.,Graduate
+MATH,693,MATH 692 or consent.,Graduate
+MATH,694,Consent,Graduate
+MATH,699,Consent,Graduate
+NPL,697,NPL 673,Graduate
+NURS,604,HLTH 675,Graduate
+PSYC,665,"Admission into the Clinical Psychology, Social Work, or Mental Health Counseling graduate programs.",Graduate
+STAT,550,MATH 354 or STAT 354 or (MATH 455 or MATH 555) or (STAT 455 or STAT 555) with “C” (2.0) or better or consent.,Graduate
+STAT,551,MATH 354 or STAT 354 or (MATH 455 or MATH 555) or (STAT 455 or STAT 555) with “C” (2.0) or better or consent.,Graduate
+STAT,555,MATH 223 with “C” (2.0) or better or consent.,Graduate
+STAT,556,(MATH 455 or MATH 555) or (STAT 455 or STAT 555) with “C” (2.0) or better or consent.,Graduate
+STAT,557,"Either MATH/STAT 354 or both STAT 154 and MATH 121 with “C” (2.0) or better, or consent.",Graduate
+STAT,558,"Either MATH/STAT 354 or both STAT 154 and MATH 121 with “C” (2.0) or better, or consent.",Graduate
+STAT,559,"Either MATH/STAT 354 or both STAT 154 and MATH 121 with “C” (2.0) or better, or consent.",Graduate
+STAT,644,"MATH/STAT 455/555 and STAT 450/550, or consent",Graduate
+STAT,650,"MATH/STAT 455/555 and MATH/STAT 450/550, with ""C"" (2.0) or better, or consent.",Graduate
+STAT,653,"MATH/STAT 455/555 and STAT 450/550 with “C” (2.0) or higher, or consent.",Graduate
+STAT,654,"STAT 450/550 with “C” (2.0) or higher, or consent.",Graduate
+STAT,659,"STAT 450/550 with “C” (2.0) or higher, or consent.",Graduate
+STAT,677,Consent,Graduate
+STAT,694,Consent,Graduate
+STAT,696,"STAT 450/550 with “C” (2.0) or higher, or consent.",Graduate
+STAT,698,Consent,Graduate
+STAT,699,Consent,Graduate
