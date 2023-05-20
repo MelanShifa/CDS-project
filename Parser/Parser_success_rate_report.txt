@@ -1,0 +1,42 @@
+Parser success rate:
+
+2/24/2023 -- 93.7% for whole dataset
+
+.Checkpoint 1 & 2 – Not accurate ​(30-50%)
+
+.Checkpoint 3 – 80%​
+
+. Checkpoint 4 – 84%​
+
+. Checkpoint 5  -- 88.4%​
+
+. Checkpoint 6 – 90%​
+
+. Checkpoint 7 – 90.8%​
+
+. Checkpoint 8 – 92%​
+
+. Checkpoint 9 – 93.7%
+
+. Checkpoint 10 – 47%
+
+.Checkpoint 11 - 60%
+
+.Checkpoint 12 - 75%
+
+.Checkpoint 13 - 88%
+
+.Checkpoint 14 - 91%
+
+.Checkpoint 15 - 91.3%
+
+.Checkpoint 16 - 91.5%
+
+.Checkpoint 17 - 91.65%
+
+.Checkpoint 14 - 92%
+
+... (several checkpoints with decimal point increments)
+
+.Checkpoint 15 (4/14/2023) - 99.59%
+
