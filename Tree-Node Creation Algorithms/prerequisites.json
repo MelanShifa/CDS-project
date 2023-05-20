@@ -1,0 +1,26 @@
+[
+  {
+    "course": "MATH 113",
+    "color": "purple",
+    "prerequisites": [
+      {
+        "course": "PLACEMENT",
+        "color": "black"
+      },
+      {
+        "course": "MATH 112",
+        "color": "black",
+        "prerequisites": [
+          {
+            "course": "PLACEMENT",
+            "color": "black"
+          },
+          {
+            "course": "MATH 098",
+            "color": "black"
+          }
+        ]
+      }
+    ]
+  }
+]
